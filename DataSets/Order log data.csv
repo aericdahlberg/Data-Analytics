@@ -1,0 +1,1629 @@
+Order_Number,Activity,Order_ID,Product,Activity_Zip,Customer_Name,Buyer_Type,Units,Activity_Month
+3,Sale,3Lig90,"Light Linen Shirt",90001,"Thomas Wells","Online Individual",1,FEB
+4,Sale,4Lig10,"Light Linen Shirt",10001,"Alexander Davis","Online Individual",1,MAR
+7,Sale,7Pro10,"Professional Collar Shirt",10001,"Elian Grant","Online Individual",1,MAR
+9,Sale,9Nav10,"Navy Blue Dapper Suit",10001,"Nicholas Harris","Online Individual",1,MAR
+10,Sale,10Pro10,"Professional Collar Shirt",10001,"Michael Roberts","Online Individual",1,MAR
+11,Sale,11Nav10,"Navy Blue Dapper Suit",10001,"James Smith","Online Individual",1,MAR
+12,Sale,12Pro10,"Professional Collar Shirt",10001,"Ted Ellis","Online Individual",1,MAR
+14,Sale,14Pro10,"Professional Collar Shirt",10001,"Daniel Bennett","Online Individual",1,MAR
+17,Sale,17Nav10,"Navy Blue Dapper Suit",10001,"Frederick Moore","Online Individual",1,MAR
+19,Sale,19Nav10,"Navy Blue Dapper Suit",10001,Macys,"Retail Buyer",1,MAR
+21,Sale,21Nav10,"Navy Blue Dapper Suit",10001,"SAKS Fifth Avenue","Retail Buyer",1,JAN
+23,Sale,23Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+25,Sale,25Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+28,Sale,28Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+29,Sale,29Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+30,Sale,30Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+32,Sale,32Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+33,Sale,33Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+34,Sale,34Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+35,Sale,35Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+36,Sale,36Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+48,Sale,48Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+59,Sale,59Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+67,Sale,67Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+101,Sale,101Nav10,"Navy Blue Dapper Suit",10013,"SAKS Fifth Avenue","Retail Buyer",1,JAN
+116,Sale,116Pro10,"Professional Collar Shirt",10013,Macys,"Retail Buyer",1,JAN
+117,Sale,117Pro10,"Professional Collar Shirt",10013,Macys,"Retail Buyer",1,FEB
+118,Sale,118Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+122,Sale,122Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+123,Sale,123Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+124,Sale,124Woo10,"Wool Blue Jacket",10022,Macys,"Retail Buyer",1,FEB
+125,Sale,125Lig10,"Light Linen Shirt",10022,Macys,"Retail Buyer",1,MAR
+126,Sale,126Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,FEB
+127,Sale,127Woo10,"Wool Blue Jacket",10022,Macys,"Retail Buyer",1,FEB
+128,Sale,128Pro10,"Professional Collar Shirt",10022,"Arthur Owens","Online Individual",1,FEB
+129,Sale,129Woo10,"Wool Blue Jacket",10022,"Roland Murray","Online Individual",1,FEB
+130,Sale,130Nav10,"Navy Blue Dapper Suit",10022,"Reid Spencer","Online Individual",1,FEB
+131,Sale,131Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+132,Sale,132Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+133,Sale,133Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+134,Sale,134Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+153,Sale,153Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+154,Sale,154Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+171,Sale,171Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+172,Sale,172Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+173,Sale,173Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+174,Sale,174Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+175,Sale,175Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+176,Sale,176Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+179,Sale,179Nav10,"Navy Blue Dapper Suit",10022,"SAKS Fifth Avenue","Retail Buyer",1,JAN
+203,Sale,203Woo10,"Wool Blue Jacket",10022,"Rafael Ross","Online Individual",1,FEB
+204,Sale,204Woo10,"Wool Blue Jacket",10022,"Aldus Moore","Online Individual",1,FEB
+205,Sale,205Pro10,"Professional Collar Shirt",10022,"Ashton Crawford","Online Individual",1,FEB
+415,Sale,415Pro90,"Professional Collar Shirt",90005,"Patrick Ryan","Online Individual",1,MAR
+431,Sale,431Pro33,"Professional Collar Shirt",33101,"Derek Morgan","Online Individual",1,MAR
+432,Sale,432Pro33,"Professional Collar Shirt",33101,Kohls,"Retail Buyer",1,JAN
+458,Sale,458Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+459,Sale,459Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+463,Sale,463Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+465,Sale,465Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+469,Sale,469Lig33,"Light Linen Shirt",33125,Kohls,"Retail Buyer",1,MAR
+471,Sale,471Lig33,"Light Linen Shirt",33125,"Alexander Casey","Online Individual",1,MAR
+476,Sale,476Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+482,Sale,482Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+483,Sale,483Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+484,Sale,484Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+486,Sale,486Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+487,Sale,487Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,MAR
+488,Sale,488Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,JAN
+489,Sale,489Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,JAN
+491,Sale,491Nav33,"Navy Blue Dapper Suit",33125,"Neiman Marcus","Retail Buyer",1,JAN
+497,Sale,497Lig33,"Light Linen Shirt",33125,Kohls,"Retail Buyer",1,JAN
+498,Sale,498Lig33,"Light Linen Shirt",33125,"Arthur Watson","Online Individual",1,JAN
+502,Sale,502Nav33,"Navy Blue Dapper Suit",33159,"Neiman Marcus","Retail Buyer",1,JAN
+510,Sale,510Nav33,"Navy Blue Dapper Suit",33159,"Alexander Hill","Online Individual",1,JAN
+511,Sale,511Nav33,"Navy Blue Dapper Suit",33159,"Jack Bailey","Online Individual",1,JAN
+512,Sale,512Nav33,"Navy Blue Dapper Suit",33159,"Arny Turn","Online Individual",1,JAN
+515,Sale,515Lig33,"Light Linen Shirt",33159,"Haris Douglas","Online Individual",1,JAN
+575,Sale,575Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+576,Sale,576Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+577,Sale,577Nav10,"Navy Blue Dapper Suit",10001,"Albert Roberts","Online Individual",1,FEB
+578,Sale,578Pro10,"Professional Collar Shirt",10001,"Victor Gibson","Online Individual",1,FEB
+579,Sale,579Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+580,Sale,580Woo10,"Wool Blue Jacket",10001,"Rafael Richardson","Online Individual",1,FEB
+581,Sale,581Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+582,Sale,582Pro10,"Professional Collar Shirt",10001,"Adison Kelley","Online Individual",1,FEB
+583,Sale,583Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+584,Sale,584Pro10,"Professional Collar Shirt",10001,"James Casey","Online Individual",1,MAR
+585,Sale,585Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+586,Sale,586Pro10,"Professional Collar Shirt",10001,"Eric Payne","Online Individual",1,MAR
+587,Sale,587Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+588,Sale,588Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+589,Sale,589Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+590,Sale,590Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+591,Sale,591Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+592,Sale,592Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+593,Sale,593Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+594,Sale,594Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+595,Sale,595Nav10,"Navy Blue Dapper Suit",10001,Macys,"Retail Buyer",1,MAR
+597,Sale,597Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+600,Sale,600Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+602,Sale,602Nav10,"Navy Blue Dapper Suit",10001,Macys,"Retail Buyer",1,MAR
+606,Sale,606Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+607,Sale,607Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+608,Sale,608Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+609,Sale,609Woo10,"Wool Blue Jacket",10001,"Barneys New York","Retail Buyer",1,JAN
+611,Sale,611Pro10,"Professional Collar Shirt",10001,Macys,"Retail Buyer",1,MAR
+646,Sale,646Nav10,"Navy Blue Dapper Suit",10022,Macys,"Retail Buyer",1,MAR
+647,Sale,647Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+648,Sale,648Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+649,Sale,649Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+655,Sale,655Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+656,Sale,656Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+657,Sale,657Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+658,Sale,658Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+659,Sale,659Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+663,Sale,663Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+666,Sale,666Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+668,Sale,668Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+670,Sale,670Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+672,Sale,672Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+674,Sale,674Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+675,Sale,675Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+676,Sale,676Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+679,Sale,679Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+680,Sale,680Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+681,Sale,681Pro10,"Professional Collar Shirt",10022,"Patrick Stevens","Online Individual",1,MAR
+682,Sale,682Pro10,"Professional Collar Shirt",10022,"Ryan Stevens","Online Individual",1,MAR
+683,Sale,683Pro10,"Professional Collar Shirt",10022,"Tony Ferguson","Online Individual",1,MAR
+684,Sale,684Pro10,"Professional Collar Shirt",10022,"Bruce Henderson","Online Individual",1,MAR
+688,Sale,688Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+689,Sale,689Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+690,Sale,690Woo10,"Wool Blue Jacket",10022,"Barneys New York","Retail Buyer",1,JAN
+695,Sale,695Lig90,"Light Linen Shirt",90005,"Arthur Johnston","Online Individual",1,FEB
+697,Sale,697Pro10,"Professional Collar Shirt",10022,"Andrew Henderson","Online Individual",1,MAR
+698,Sale,698Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+699,Sale,699Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+700,Sale,700Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+701,Sale,701Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+702,Sale,702Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+703,Sale,703Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+704,Sale,704Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+705,Sale,705Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+707,Sale,707Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+709,Sale,709Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+710,Sale,710Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+711,Sale,711Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+712,Sale,712Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+713,Sale,713Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+714,Sale,714Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+715,Sale,715Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+716,Sale,716Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+717,Sale,717Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+718,Sale,718Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+721,Sale,721Pro10,"Professional Collar Shirt",10022,"Oscar Howard","Online Individual",1,MAR
+726,Sale,726Pro10,"Professional Collar Shirt",10022,"James Watson","Online Individual",1,MAR
+727,Sale,727Pro10,"Professional Collar Shirt",10022,"Sam Warren","Online Individual",1,MAR
+728,Sale,728Pro10,"Professional Collar Shirt",10022,"Dainton Smith","Online Individual",1,MAR
+729,Sale,729Pro10,"Professional Collar Shirt",10022,"Alfred Cole","Online Individual",1,MAR
+730,Sale,730Pro10,"Professional Collar Shirt",10022,"Ryan Campbell","Online Individual",1,MAR
+731,Sale,731Pro10,"Professional Collar Shirt",10022,"Luke Ryan","Online Individual",1,MAR
+735,Sale,735Pro10,"Professional Collar Shirt",10022,"Oliver Hall","Online Individual",1,MAR
+736,Sale,736Pro10,"Professional Collar Shirt",10022,"William Richards","Online Individual",1,MAR
+737,Sale,737Pro10,"Professional Collar Shirt",10022,"James Harper","Online Individual",1,MAR
+738,Sale,738Pro10,"Professional Collar Shirt",10022,"Patrick Mason","Online Individual",1,MAR
+742,Sale,742Pro10,"Professional Collar Shirt",10022,Macys,"Retail Buyer",1,MAR
+781,Sale,781Pro33,"Professional Collar Shirt",33101,Kohls,"Retail Buyer",1,FEB
+967,Sale,967Lig80,"Light Linen Shirt",80123,"Oliver Rogers","Online Individual",1,JAN
+968,Sale,968Lig80,"Light Linen Shirt",80123,"Preston Parker","Online Individual",1,JAN
+969,Sale,969Lig80,"Light Linen Shirt",80123,"Carl Cole","Online Individual",1,JAN
+970,Sale,970Lig80,"Light Linen Shirt",80123,"Clark Johnston","Online Individual",1,JAN
+971,Sale,971Lig80,"Light Linen Shirt",80123,"David Hunt","Online Individual",1,JAN
+972,Sale,972Lig80,"Light Linen Shirt",80123,"David Ross","Online Individual",1,JAN
+973,Sale,973Lig80,"Light Linen Shirt",80123,"James Johnson","Online Individual",1,JAN
+974,Sale,974Lig80,"Light Linen Shirt",80123,"Sawyer Hawkins","Online Individual",1,JAN
+975,Sale,975Lig80,"Light Linen Shirt",80123,"Spike Walker","Online Individual",1,JAN
+976,Sale,976Lig80,"Light Linen Shirt",80123,"Stuart Warren","Online Individual",1,JAN
+977,Sale,977Sus80,"Susy Winter Coat",80123,"Daryl Ross","Online Individual",1,JAN
+979,Sale,979Lig80,"Light Linen Shirt",80123,"Oliver Allen","Online Individual",1,JAN
+982,Sale,982Lig80,"Light Linen Shirt",80123,"David Montgomery","Online Individual",1,JAN
+985,Sale,985Lig80,"Light Linen Shirt",80123,"Abraham Carroll","Online Individual",1,JAN
+986,Sale,986Sus80,"Susy Winter Coat",80123,"Walter Cameron","Online Individual",1,JAN
+987,Sale,987Lig80,"Light Linen Shirt",80123,"Spike Roberts","Online Individual",1,JAN
+988,Sale,988Lig80,"Light Linen Shirt",80123,"Garry Ross","Online Individual",1,JAN
+989,Sale,989Lig80,"Light Linen Shirt",80123,"Alfred Johnston","Online Individual",1,JAN
+990,Sale,990Lig80,"Light Linen Shirt",80123,"Jack Ellis","Online Individual",1,JAN
+991,Sale,991Lig80,"Light Linen Shirt",80123,"Arnold Morrison","Online Individual",1,JAN
+992,Sale,992Lig80,"Light Linen Shirt",80123,"Alexander Stewart","Online Individual",1,JAN
+993,Sale,993Lig80,"Light Linen Shirt",80123,"Marcus Casey","Online Individual",1,JAN
+994,Sale,994Lig80,"Light Linen Shirt",80123,"Sawyer Chapman","Online Individual",1,JAN
+995,Sale,995Lig80,"Light Linen Shirt",80123,"Jordan Cameron","Online Individual",1,JAN
+996,Sale,996Lig80,"Light Linen Shirt",80123,"Maximilian Hawkins","Online Individual",1,JAN
+997,Sale,997Lig80,"Light Linen Shirt",80123,"Eric Parker","Online Individual",1,JAN
+998,Sale,998Lig80,"Light Linen Shirt",80123,"Daryl Parker","Online Individual",1,JAN
+999,Sale,999Lig80,"Light Linen Shirt",80123,"Elian Carroll","Online Individual",1,JAN
+1000,Sale,1000Lig80,"Light Linen Shirt",80123,"Ted Hunt","Online Individual",1,JAN
+1001,Sale,1001Lig80,"Light Linen Shirt",80123,"Ryan Rogers","Online Individual",1,JAN
+1002,Sale,1002Sus80,"Susy Winter Coat",80123,"Carlos Hamilton","Online Individual",1,JAN
+1003,Sale,1003Lig80,"Light Linen Shirt",80123,"Martin Williams","Online Individual",1,JAN
+1004,Sale,1004Lig80,"Light Linen Shirt",80123,"Paul Adams","Online Individual",1,JAN
+1005,Sale,1005Lig80,"Light Linen Shirt",80123,"Alexander Ellis","Online Individual",1,JAN
+1006,Sale,1006Lig80,"Light Linen Shirt",80123,"Clark Turner","Online Individual",1,JAN
+1007,Sale,1007Lig80,"Light Linen Shirt",80123,"Alfred Harper","Online Individual",1,JAN
+1008,Sale,1008Lig80,"Light Linen Shirt",80123,"Thomas Anderson","Online Individual",1,JAN
+1009,Sale,1009Lig80,"Light Linen Shirt",80123,"Aston Hill","Online Individual",1,JAN
+1010,Sale,1010Lig80,"Light Linen Shirt",80123,"Blake Lloyd","Online Individual",1,JAN
+1011,Sale,1011Lig80,"Light Linen Shirt",80123,"Ashton Cameron","Online Individual",1,JAN
+1012,Sale,1012Lig80,"Light Linen Shirt",80123,"Stuart Johnson","Online Individual",1,JAN
+1013,Sale,1013Lig80,"Light Linen Shirt",80123,"John Anderson","Online Individual",1,JAN
+1014,Sale,1014Lig80,"Light Linen Shirt",80123,"Brad Bennett","Online Individual",1,JAN
+1015,Sale,1015Woo80,"Wool Blue Jacket",80123,"Albert Alexander","Online Individual",1,JAN
+1016,Sale,1016Lig80,"Light Linen Shirt",80123,"Garry Smith","Online Individual",1,JAN
+1017,Sale,1017Lig80,"Light Linen Shirt",80123,"Adam Perkins","Online Individual",1,JAN
+1018,Sale,1018Lig80,"Light Linen Shirt",80123,"Dexter Wright","Online Individual",1,JAN
+1019,Sale,1019Lig80,"Light Linen Shirt",80123,"Jack Howard","Online Individual",1,JAN
+1020,Sale,1020Lig80,"Light Linen Shirt",80123,"Adrian Evans","Online Individual",1,JAN
+1021,Sale,1021Lig80,"Light Linen Shirt",80123,"Tony Adams","Online Individual",1,JAN
+1022,Sale,1022Lig80,"Light Linen Shirt",80123,"Max Cooper","Online Individual",1,JAN
+1023,Sale,1023Lig80,"Light Linen Shirt",80123,"Dominik Myers","Online Individual",1,JAN
+1024,Sale,1024Lig80,"Light Linen Shirt",80123,"James Wells","Online Individual",1,JAN
+1025,Sale,1025Lig80,"Light Linen Shirt",80123,"Andrew Foster","Online Individual",1,JAN
+1026,Sale,1026Lig80,"Light Linen Shirt",80123,"Antony Barnes","Online Individual",1,JAN
+1027,Sale,1027Lig80,"Light Linen Shirt",80123,"Fenton Phillips","Online Individual",1,JAN
+1028,Sale,1028Lig80,"Light Linen Shirt",80123,"Aiden Cooper","Online Individual",1,JAN
+1029,Sale,1029Lig80,"Light Linen Shirt",80123,"Aiden Anderson","Online Individual",1,JAN
+1030,Sale,1030Lig80,"Light Linen Shirt",80123,"Lenny Foster","Online Individual",1,JAN
+1031,Sale,1031Lig80,"Light Linen Shirt",80123,"Steven Stevens","Online Individual",1,JAN
+1032,Sale,1032Woo80,"Wool Blue Jacket",80123,"George Ferguson","Online Individual",1,JAN
+1033,Sale,1033Lig80,"Light Linen Shirt",80123,"Edgar Warren","Online Individual",1,JAN
+1034,Sale,1034Lig80,"Light Linen Shirt",80123,"Vincent Ferguson","Online Individual",1,JAN
+1035,Sale,1035Lig80,"Light Linen Shirt",80123,"Daniel Rogers","Online Individual",1,JAN
+1036,Sale,1036Lig80,"Light Linen Shirt",80123,"Oliver Owens","Online Individual",1,JAN
+1037,Sale,1037Lig80,"Light Linen Shirt",80123,"Carl Henderson","Online Individual",1,JAN
+1038,Sale,1038Lig80,"Light Linen Shirt",80123,"Luke Cole","Online Individual",1,JAN
+1039,Sale,1039Lig80,"Light Linen Shirt",80123,"Adam Chapman","Online Individual",1,JAN
+1040,Sale,1040Lig80,"Light Linen Shirt",80123,"Vincent Stevens","Online Individual",1,JAN
+1041,Sale,1041Lig80,"Light Linen Shirt",80123,"Fenton Tucker","Online Individual",1,JAN
+1042,Sale,1042Lig80,"Light Linen Shirt",80123,"Freddie Thomas","Online Individual",1,JAN
+1043,Sale,1043Lig80,"Light Linen Shirt",80123,"Dainton Stevens","Online Individual",1,JAN
+1044,Sale,1044Woo80,"Wool Blue Jacket",80123,"Jared Jones","Online Individual",1,JAN
+1045,Sale,1045Lig80,"Light Linen Shirt",80123,"Max Phillips","Online Individual",1,JAN
+1046,Sale,1046Lig80,"Light Linen Shirt",80123,"Brad Anderson","Online Individual",1,JAN
+1047,Sale,1047Lig80,"Light Linen Shirt",80123,"Oscar Wilson","Online Individual",1,JAN
+1048,Sale,1048Lig80,"Light Linen Shirt",80123,"Ryan Johnston","Online Individual",1,JAN
+1049,Sale,1049Lig80,"Light Linen Shirt",80123,"Henry Barnes","Online Individual",1,JAN
+1050,Sale,1050Lig80,"Light Linen Shirt",80123,"Martin Harris","Online Individual",1,JAN
+1051,Sale,1051Lig80,"Light Linen Shirt",80123,"Arnold Turner","Online Individual",1,JAN
+1052,Sale,1052Pro80,"Professional Collar Shirt",80123,"Dale Spencer","Online Individual",1,JAN
+1053,Sale,1053Lig80,"Light Linen Shirt",80123,"Adison Morris","Online Individual",1,JAN
+1054,Sale,1054Lig80,"Light Linen Shirt",80123,"Walter Morrison","Online Individual",1,JAN
+1055,Sale,1055Lig80,"Light Linen Shirt",80123,"Haris Hall","Online Individual",1,JAN
+1056,Sale,1056Woo80,"Wool Blue Jacket",80123,"Lyndon Cameron","Online Individual",1,JAN
+1057,Sale,1057Pro80,"Professional Collar Shirt",80123,"John Jones","Online Individual",1,JAN
+1058,Sale,1058Lig80,"Light Linen Shirt",80123,"Patrick Tucker","Online Individual",1,JAN
+1059,Sale,1059Lig80,"Light Linen Shirt",80123,"Robert Ryan","Online Individual",1,JAN
+1060,Sale,1060Lig80,"Light Linen Shirt",80123,"Justin Crawford","Online Individual",1,JAN
+1061,Sale,1061Pro80,"Professional Collar Shirt",80123,"Garry Martin","Online Individual",1,JAN
+1062,Sale,1062Lig80,"Light Linen Shirt",80123,"Alfred Martin","Online Individual",1,JAN
+1063,Sale,1063Lig80,"Light Linen Shirt",80123,"Andrew Murray","Online Individual",1,JAN
+1064,Sale,1064Lig80,"Light Linen Shirt",80123,"Richard Carter","Online Individual",1,JAN
+1065,Sale,1065Woo80,"Wool Blue Jacket",80123,"Daryl Cole","Online Individual",1,JAN
+1066,Sale,1066Lig80,"Light Linen Shirt",80123,"Arthur Robinson","Online Individual",1,JAN
+1067,Sale,1067Lig80,"Light Linen Shirt",80123,"Ted Myers","Online Individual",1,JAN
+1068,Sale,1068Lig80,"Light Linen Shirt",80123,"Victor Smith","Online Individual",1,JAN
+1069,Sale,1069Lig80,"Light Linen Shirt",80123,"John Smith","Online Individual",1,JAN
+1070,Sale,1070Woo80,"Wool Blue Jacket",80123,"Alexander Warren","Online Individual",1,JAN
+1071,Sale,1071Lig80,"Light Linen Shirt",80123,"Adrian Thompson","Online Individual",1,JAN
+1072,Sale,1072Lig80,"Light Linen Shirt",80123,"Andrew Watson","Online Individual",1,JAN
+1073,Sale,1073Lig80,"Light Linen Shirt",80123,"Charlie Harper","Online Individual",1,JAN
+1074,Sale,1074Pro80,"Professional Collar Shirt",80123,"Aiden Moore","Online Individual",1,MAR
+1075,Sale,1075Lig80,"Light Linen Shirt",80123,"Luke Bennett","Online Individual",1,JAN
+1076,Sale,1076Pro80,"Professional Collar Shirt",80123,"Haris Thompson","Online Individual",1,MAR
+1077,Sale,1077Lig80,"Light Linen Shirt",80123,"Mike Allen","Online Individual",1,JAN
+1078,Sale,1078Pro80,"Professional Collar Shirt",80123,"Martin Murray","Online Individual",1,MAR
+1079,Sale,1079Lig80,"Light Linen Shirt",80123,"Dainton Morgan","Online Individual",1,JAN
+1080,Sale,1080Lig80,"Light Linen Shirt",80123,"Mike Reed","Online Individual",1,JAN
+1081,Sale,1081Lig80,"Light Linen Shirt",80123,"Dexter Stewart","Online Individual",1,JAN
+1082,Sale,1082Lig80,"Light Linen Shirt",80123,"James Sullivan","Online Individual",1,JAN
+1083,Sale,1083Lig80,"Light Linen Shirt",80123,"John Williams","Online Individual",1,JAN
+1084,Sale,1084Lig80,"Light Linen Shirt",80123,"Edwin Lloyd","Online Individual",1,JAN
+1085,Sale,1085Lig80,"Light Linen Shirt",80123,"Julian Lloyd","Online Individual",1,JAN
+1086,Sale,1086Lig80,"Light Linen Shirt",80123,"Eddy Harris","Online Individual",1,JAN
+1087,Sale,1087Lig80,"Light Linen Shirt",80123,"Stuart Nelson","Online Individual",1,JAN
+1088,Sale,1088Lig80,"Light Linen Shirt",80123,"Patrick Turner","Online Individual",1,JAN
+1089,Sale,1089Lig80,"Light Linen Shirt",80123,"Dexter Perkins","Online Individual",1,JAN
+1090,Sale,1090Woo80,"Wool Blue Jacket",80123,"Abraham Turner","Online Individual",1,FEB
+1091,Sale,1091Lig10,"Light Linen Shirt",10022,Macys,"Retail Buyer",1,MAR
+1092,Sale,1092Lig80,"Light Linen Shirt",80123,"Ryan Murphy","Online Individual",1,JAN
+1093,Sale,1093Lig80,"Light Linen Shirt",80123,"Eric Morrison","Online Individual",1,JAN
+1094,Sale,1094Woo80,"Wool Blue Jacket",80123,"Martin Henderson","Online Individual",1,FEB
+1095,Sale,1095Lig80,"Light Linen Shirt",80123,"Carlos Murray","Online Individual",1,JAN
+1096,Sale,1096Lig80,"Light Linen Shirt",80123,"Daniel Henderson","Online Individual",1,JAN
+1097,Sale,1097Woo80,"Wool Blue Jacket",80123,"Steven Brooks","Online Individual",1,FEB
+1098,Sale,1098Lig80,"Light Linen Shirt",80123,"Julian Kelly","Online Individual",1,JAN
+1099,Sale,1099Woo80,"Wool Blue Jacket",80123,"Harold Jones","Online Individual",1,FEB
+1100,Sale,1100Lig80,"Light Linen Shirt",80123,"Eric Warren","Online Individual",1,JAN
+1101,Sale,1101Lig80,"Light Linen Shirt",80123,Target,"Retail Buyer",1,JAN
+1102,Sale,1102Lig80,"Light Linen Shirt",80123,Target,"Retail Buyer",1,JAN
+1103,Sale,1103Lig80,"Light Linen Shirt",80123,Target,"Retail Buyer",1,JAN
+1104,Sale,1104Lig80,"Light Linen Shirt",80123,Target,"Retail Buyer",1,JAN
+1105,Sale,1105Lig10,"Light Linen Shirt",10022,Macys,"Retail Buyer",1,MAR
+1106,Sale,1106Lig10,"Light Linen Shirt",10022,Macys,"Retail Buyer",1,MAR
+1107,Sale,1107Lig10,"Light Linen Shirt",10022,Macys,"Retail Buyer",1,MAR
+1108,Sale,1108Lig10,"Light Linen Shirt",10022,Macys,"Retail Buyer",1,MAR
+1,Sale,1Red90,"Red Poplin Summer Dress",90001,"Cadie Alexander","Online Individual",1,MAR
+2,Sale,2Red90,"Red Poplin Summer Dress",90001,"Jasmine Wilson","Online Individual",1,MAR
+5,Sale,5Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+6,Sale,6Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+8,Sale,8Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+13,Sale,13Woo10,"Wool Blue Jacket",10001,Macys,"Retail Buyer",1,JAN
+15,Sale,15Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+16,Sale,16Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+18,Sale,18Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+20,Sale,20Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+22,Sale,22Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+24,Sale,24Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+26,Sale,26Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+27,Sale,27Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+31,Sale,31Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+37,Sale,37Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+38,Sale,38Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+39,Sale,39Woo10,"Wool Blue Jacket",10001,Macys,"Retail Buyer",1,JAN
+40,Sale,40Woo10,"Wool Blue Jacket",10001,Macys,"Retail Buyer",1,JAN
+41,Sale,41Woo10,"Wool Blue Jacket",10001,Macys,"Retail Buyer",1,JAN
+42,Sale,42Woo10,"Wool Blue Jacket",10001,Macys,"Retail Buyer",1,JAN
+43,Sale,43Woo10,"Wool Blue Jacket",10001,Macys,"Retail Buyer",1,JAN
+44,Sale,44Woo10,"Wool Blue Jacket",10001,"Sienna Sullivan","Online Individual",1,JAN
+45,Sale,45Woo10,"Wool Blue Jacket",10001,"Hailey Foster","Online Individual",1,JAN
+46,Sale,46Woo10,"Wool Blue Jacket",10001,"Violet Tucker","Online Individual",1,JAN
+47,Sale,47Woo10,"Wool Blue Jacket",10001,"Sienna Davis","Online Individual",1,JAN
+49,Sale,49Sus10,"Susy Winter Coat",10001,"Lucy Jones","Online Individual",1,JAN
+50,Sale,50Red10,"Red Poplin Summer Dress",10001,"Amanda Cooper","Online Individual",1,MAR
+51,Sale,51Red10,"Red Poplin Summer Dress",10001,"Honey Walker","Online Individual",1,MAR
+52,Sale,52Sus10,"Susy Winter Coat",10001,"Briony Williams","Online Individual",1,JAN
+53,Sale,53Sus10,"Susy Winter Coat",10001,"Miranda Rogers","Online Individual",1,JAN
+54,Sale,54Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+55,Sale,55Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+56,Sale,56Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+57,Sale,57Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,JAN
+58,Sale,58Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+60,Sale,60Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+61,Sale,61Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+62,Sale,62Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,FEB
+63,Sale,63Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,FEB
+64,Sale,64Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,FEB
+65,Sale,65Bla10,"Black Crepe Business Jacket",10001,Macys,"Retail Buyer",1,FEB
+66,Sale,66Sus10,"Susy Winter Coat",10001,Macys,"Retail Buyer",1,FEB
+68,Sale,68Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,FEB
+69,Sale,69Bla10,"Black Crepe Business Jacket",10001,Macys,"Retail Buyer",1,FEB
+70,Sale,70Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,FEB
+71,Sale,71Sus10,"Susy Winter Coat",10001,"Sarah Higgins","Online Individual",1,FEB
+72,Sale,72Nav10,"Navy Floral Light Halter",10001,"Catherine Hamilton","Online Individual",1,MAR
+73,Sale,73Sus10,"Susy Winter Coat",10001,"Isabella Johnston","Online Individual",1,FEB
+74,Sale,74Bla10,"Black Crepe Business Jacket",10001,"Mary Walker","Online Individual",1,FEB
+75,Sale,75Sus10,"Susy Winter Coat",10001,"Adrianna Hill","Online Individual",1,FEB
+76,Sale,76Sus10,"Susy Winter Coat",10001,"Adrianna Harper","Online Individual",1,FEB
+77,Sale,77Red10,"Red Poplin Summer Dress",10001,"Natalie Barnes","Online Individual",1,FEB
+78,Sale,78Bla10,"Black Crepe Business Jacket",10001,"Melanie Anderson","Online Individual",1,FEB
+79,Sale,79Sus10,"Susy Winter Coat",10001,"Tess Bennett","Online Individual",1,FEB
+80,Sale,80Sus10,"Susy Winter Coat",10013,"Alisa Robinson","Online Individual",1,FEB
+81,Sale,81Red10,"Red Poplin Summer Dress",10013,"Aida Hawkins","Online Individual",1,MAR
+82,Sale,82Red10,"Red Poplin Summer Dress",10013,"Joyce Farrell","Online Individual",1,MAR
+83,Sale,83Red10,"Red Poplin Summer Dress",10013,"Jasmine Cooper","Online Individual",1,MAR
+84,Sale,84Red10,"Red Poplin Summer Dress",10013,"Heather Edwards","Online Individual",1,MAR
+85,Sale,85Red10,"Red Poplin Summer Dress",10013,"Agata Williams","Online Individual",1,MAR
+86,Sale,86Red10,"Red Poplin Summer Dress",10013,"Deanna Morrison","Online Individual",1,MAR
+87,Sale,87Red10,"Red Poplin Summer Dress",10013,"Cadie Ferguson","Online Individual",1,MAR
+88,Sale,88Red10,"Red Poplin Summer Dress",10013,"Abigail Cole","Online Individual",1,MAR
+89,Sale,89Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+90,Sale,90Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+91,Sale,91Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+92,Sale,92Car10,"Carissa Cocktail Gown",10013,Macys,"Retail Buyer",1,MAR
+93,Sale,93Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+94,Sale,94Bla10,"Black Crepe Business Jacket",10013,Macys,"Retail Buyer",1,MAR
+95,Sale,95Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+96,Sale,96Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+97,Sale,97Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+98,Sale,98Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+99,Sale,99Red10,"Red Poplin Summer Dress",10013,"Lilianna Morris","Online Individual",1,MAR
+100,Sale,100Red10,"Red Poplin Summer Dress",10013,"Paige Walker","Online Individual",1,MAR
+102,Sale,102Car10,"Carissa Cocktail Gown",10013,"Amanda Moore","Online Individual",1,MAR
+103,Sale,103Red10,"Red Poplin Summer Dress",10013,"Naomi Turner","Online Individual",1,MAR
+104,Sale,104Red10,"Red Poplin Summer Dress",10013,"Jessica Moore","Online Individual",1,MAR
+105,Sale,105Red10,"Red Poplin Summer Dress",10013,"Connie Adams","Online Individual",1,MAR
+106,Sale,106Red10,"Red Poplin Summer Dress",10013,"Naomi Morris","Online Individual",1,MAR
+107,Sale,107Red10,"Red Poplin Summer Dress",10013,"Lilianna Carroll","Online Individual",1,MAR
+108,Sale,108Red10,"Red Poplin Summer Dress",10013,"Honey Kelley","Online Individual",1,MAR
+109,Sale,109Red10,"Red Poplin Summer Dress",10013,"Ada Howard","Online Individual",1,MAR
+110,Sale,110Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+111,Sale,111Bla10,"Black Crepe Business Jacket",10013,Macys,"Retail Buyer",1,MAR
+112,Sale,112Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+113,Sale,113Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+114,Sale,114Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+115,Sale,115Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+119,Sale,119Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+120,Sale,120Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+121,Sale,121Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+135,Sale,135Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+136,Sale,136Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+137,Sale,137Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+138,Sale,138Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+139,Sale,139Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+140,Sale,140Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+141,Sale,141Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+142,Sale,142Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+143,Sale,143Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+144,Sale,144Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+145,Sale,145Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+146,Sale,146Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+147,Sale,147Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+148,Sale,148Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+149,Sale,149Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+150,Sale,150Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+151,Sale,151Red10,"Red Poplin Summer Dress",10022,"Melanie Smith","Online Individual",1,MAR
+152,Sale,152Red10,"Red Poplin Summer Dress",10022,"Darcy Andrews","Online Individual",1,MAR
+155,Sale,155Red10,"Red Poplin Summer Dress",10022,"Nicole Perkins","Online Individual",1,MAR
+156,Sale,156Red10,"Red Poplin Summer Dress",10022,"Michelle Hawkins","Online Individual",1,MAR
+157,Sale,157Red10,"Red Poplin Summer Dress",10022,"Natalie Kelley","Online Individual",1,MAR
+158,Sale,158Red10,"Red Poplin Summer Dress",10022,"Gianna Crawford","Online Individual",1,MAR
+159,Sale,159Red10,"Red Poplin Summer Dress",10022,"Emma Craig","Online Individual",1,MAR
+160,Sale,160Red10,"Red Poplin Summer Dress",10022,"Paige Montgomery","Online Individual",1,MAR
+161,Sale,161Red10,"Red Poplin Summer Dress",10022,"Rebecca Nelson","Online Individual",1,MAR
+162,Sale,162Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+163,Sale,163Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+164,Sale,164Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+165,Sale,165Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+166,Sale,166Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+167,Sale,167Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+168,Sale,168Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+169,Sale,169Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+170,Sale,170Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+177,Sale,177Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+178,Sale,178Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+180,Sale,180Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+181,Sale,181Bla10,"Black Crepe Business Jacket",10022,"SAKS Fifth Avenue","Retail Buyer",1,JAN
+182,Sale,182Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+183,Sale,183Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+184,Sale,184Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+185,Sale,185Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+186,Sale,186Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+187,Sale,187Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+188,Sale,188Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+189,Sale,189Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+190,Sale,190Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+191,Sale,191Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+192,Sale,192Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+193,Sale,193Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+194,Sale,194Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+195,Sale,195Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+196,Sale,196Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+197,Sale,197Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+198,Sale,198Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+199,Sale,199Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+200,Sale,200Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+201,Sale,201Nav10,"Navy Floral Light Halter",10022,Macys,"Retail Buyer",1,MAR
+202,Sale,202Bla10,"Black Crepe Business Jacket",10022,"SAKS Fifth Avenue","Retail Buyer",1,JAN
+206,Sale,206Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+207,Sale,207Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+208,Sale,208Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+209,Sale,209Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+210,Sale,210Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+211,Sale,211Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+212,Sale,212Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+213,Sale,213Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+214,Sale,214Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+215,Sale,215Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+216,Sale,216Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+217,Sale,217Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+218,Sale,218Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+219,Sale,219Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+220,Sale,220Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+221,Sale,221Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+222,Sale,222Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+223,Sale,223Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+224,Sale,224Sus80,"Susy Winter Coat",80014,"Annabella Ellis","Online Individual",1,JAN
+225,Sale,225Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+226,Sale,226Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+227,Sale,227Sus80,"Susy Winter Coat",80014,"Caroline Warren","Online Individual",1,JAN
+228,Sale,228Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+229,Sale,229Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+230,Sale,230Sus80,"Susy Winter Coat",80014,"Connie Spencer","Online Individual",1,FEB
+231,Sale,231Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+232,Sale,232Nav80,"Navy Floral Light Halter",80014,"Emily Farrell","Online Individual",1,JAN
+233,Sale,233Nav80,"Navy Floral Light Halter",80014,"Lucy Myers","Online Individual",1,JAN
+234,Sale,234Sus80,"Susy Winter Coat",80014,"Camila Wells","Online Individual",1,FEB
+235,Sale,235Nav80,"Navy Floral Light Halter",80014,"Valeria Hawkins","Online Individual",1,JAN
+236,Sale,236Nav80,"Navy Floral Light Halter",80014,"Darcy Higgins","Online Individual",1,JAN
+237,Sale,237Nav80,"Navy Floral Light Halter",80014,"Emma Nelson","Online Individual",1,JAN
+238,Sale,238Nav80,"Navy Floral Light Halter",80014,"Adrianna Roberts","Online Individual",1,JAN
+239,Sale,239Nav80,"Navy Floral Light Halter",80014,"Nicole Martin","Online Individual",1,JAN
+240,Sale,240Nav80,"Navy Floral Light Halter",80014,"Elise Perry","Online Individual",1,JAN
+241,Sale,241Nav80,"Navy Floral Light Halter",80014,"Tiana Jones","Online Individual",1,JAN
+242,Sale,242Nav80,"Navy Floral Light Halter",80014,"Sabrina Anderson","Online Individual",1,JAN
+243,Sale,243Nav80,"Navy Floral Light Halter",80014,"Catherine Richards","Online Individual",1,JAN
+244,Sale,244Nav80,"Navy Floral Light Halter",80014,"Naomi Hunt","Online Individual",1,JAN
+245,Sale,245Nav80,"Navy Floral Light Halter",80014,"Tara Armstrong","Online Individual",1,JAN
+246,Sale,246Nav80,"Navy Floral Light Halter",80014,"Emma Miller","Online Individual",1,JAN
+247,Sale,247Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+248,Sale,248Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+249,Sale,249Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+250,Sale,250Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+251,Sale,251Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+252,Sale,252Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+253,Sale,253Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+254,Sale,254Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+255,Sale,255Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+256,Sale,256Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+257,Sale,257Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+258,Sale,258Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+259,Sale,259Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+260,Sale,260Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+261,Sale,261Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+262,Sale,262Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+263,Sale,263Nav80,"Navy Floral Light Halter",80014,"Isabella Henderson","Online Individual",1,JAN
+264,Sale,264Nav80,"Navy Floral Light Halter",80014,"Amy Barrett","Online Individual",1,JAN
+265,Sale,265Nav80,"Navy Floral Light Halter",80014,"Chelsea Davis","Online Individual",1,JAN
+266,Sale,266Nav80,"Navy Floral Light Halter",80014,"Charlotte Williams","Online Individual",1,JAN
+267,Sale,267Nav80,"Navy Floral Light Halter",80014,"Gianna Jones","Online Individual",1,JAN
+268,Sale,268Nav80,"Navy Floral Light Halter",80014,"Caroline Riley","Online Individual",1,JAN
+269,Sale,269Nav80,"Navy Floral Light Halter",80014,"Chloe Carroll","Online Individual",1,JAN
+270,Sale,270Nav80,"Navy Floral Light Halter",80014,"Connie Smith","Online Individual",1,JAN
+271,Sale,271Nav80,"Navy Floral Light Halter",80208,"Myra Turner","Online Individual",1,JAN
+272,Sale,272Nav80,"Navy Floral Light Halter",80208,"Arianna Barrett","Online Individual",1,JAN
+273,Sale,273Nav80,"Navy Floral Light Halter",80208,"Paige Craig","Online Individual",1,JAN
+274,Sale,274Nav80,"Navy Floral Light Halter",80208,"Melanie Morris","Online Individual",1,JAN
+275,Sale,275Nav80,"Navy Floral Light Halter",80208,"Agata Wilson","Online Individual",1,JAN
+276,Sale,276Nav80,"Navy Floral Light Halter",80208,"Tess Craig","Online Individual",1,JAN
+277,Sale,277Nav80,"Navy Floral Light Halter",80208,"Tess Fowler","Online Individual",1,JAN
+278,Sale,278Nav80,"Navy Floral Light Halter",80208,"Eleanor Morgan","Online Individual",1,JAN
+279,Sale,279Nav80,"Navy Floral Light Halter",80208,"Kate Russell","Online Individual",1,JAN
+280,Sale,280Nav80,"Navy Floral Light Halter",80208,"Aida Harper","Online Individual",1,JAN
+281,Sale,281Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+282,Sale,282Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+283,Sale,283Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+284,Sale,284Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+285,Sale,285Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+286,Sale,286Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+287,Sale,287Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+288,Sale,288Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+289,Sale,289Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+290,Sale,290Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+291,Sale,291Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+292,Sale,292Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+293,Sale,293Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+294,Sale,294Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+295,Sale,295Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+296,Sale,296Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+297,Sale,297Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+298,Sale,298Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+299,Sale,299Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+300,Sale,300Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+301,Sale,301Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+302,Sale,302Nav80,"Navy Floral Light Halter",80208,"Joyce Bennett","Online Individual",1,JAN
+303,Sale,303Nav80,"Navy Floral Light Halter",80208,"Honey Barrett","Online Individual",1,JAN
+304,Sale,304Nav80,"Navy Floral Light Halter",80208,"Melissa Carroll","Online Individual",1,JAN
+305,Sale,305Nav80,"Navy Floral Light Halter",80208,"Chloe Rogers","Online Individual",1,JAN
+306,Sale,306Nav80,"Navy Floral Light Halter",80208,"Tess Carroll","Online Individual",1,JAN
+307,Sale,307Nav80,"Navy Floral Light Halter",80208,"Lucia Ferguson","Online Individual",1,JAN
+308,Sale,308Nav80,"Navy Floral Light Halter",80208,"Isabella Russell","Online Individual",1,JAN
+309,Sale,309Nav80,"Navy Floral Light Halter",80208,"Deanna Wells","Online Individual",1,JAN
+310,Sale,310Nav80,"Navy Floral Light Halter",80208,"Carina Davis","Online Individual",1,JAN
+311,Sale,311Nav80,"Navy Floral Light Halter",80208,"Michelle Henderson","Online Individual",1,JAN
+312,Sale,312Nav80,"Navy Floral Light Halter",80208,"Edith Owens","Online Individual",1,JAN
+313,Sale,313Nav80,"Navy Floral Light Halter",80208,"Olivia Adams","Online Individual",1,JAN
+314,Sale,314Nav80,"Navy Floral Light Halter",80208,"Alisa Hill","Online Individual",1,JAN
+315,Sale,315Nav80,"Navy Floral Light Halter",80208,"Chloe Kelley","Online Individual",1,JAN
+316,Sale,316Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+317,Sale,317Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+318,Sale,318Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+319,Sale,319Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+320,Sale,320Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+321,Sale,321Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+322,Sale,322Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+323,Sale,323Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+324,Sale,324Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+325,Sale,325Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+326,Sale,326Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+327,Sale,327Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+328,Sale,328Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+329,Sale,329Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+330,Sale,330Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+331,Sale,331Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+332,Sale,332Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+333,Sale,333Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+334,Sale,334Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+335,Sale,335Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+336,Sale,336Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+337,Sale,337Nav80,"Navy Floral Light Halter",80208,"Tiana Ellis","Online Individual",1,JAN
+338,Sale,338Nav80,"Navy Floral Light Halter",80208,"Vivian Tucker","Online Individual",1,JAN
+339,Sale,339Nav80,"Navy Floral Light Halter",80208,"Vivian Martin","Online Individual",1,JAN
+340,Sale,340Nav80,"Navy Floral Light Halter",80208,"Myra Johnson","Online Individual",1,JAN
+341,Sale,341Nav80,"Navy Floral Light Halter",80208,"Adelaide Lloyd","Online Individual",1,JAN
+342,Sale,342Nav80,"Navy Floral Light Halter",80208,"Maddie Henderson","Online Individual",1,JAN
+343,Sale,343Nav80,"Navy Floral Light Halter",80123,"Emma Morris","Online Individual",1,JAN
+344,Sale,344Nav80,"Navy Floral Light Halter",80123,"Lucia Moore","Online Individual",1,JAN
+345,Sale,345Nav80,"Navy Floral Light Halter",80123,"Florrie Howard","Online Individual",1,JAN
+346,Sale,346Nav80,"Navy Floral Light Halter",80123,"Violet Grant","Online Individual",1,JAN
+347,Sale,347Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+348,Sale,348Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+349,Sale,349Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+350,Sale,350Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+351,Sale,351Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+352,Sale,352Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+353,Sale,353Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+354,Sale,354Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+355,Sale,355Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+356,Sale,356Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+357,Sale,357Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+358,Sale,358Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+359,Sale,359Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+360,Sale,360Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+361,Sale,361Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+362,Sale,362Nav80,"Navy Floral Light Halter",80123,"Adrianna Ross","Online Individual",1,JAN
+363,Sale,363Nav80,"Navy Floral Light Halter",80123,"Kimberly Crawford","Online Individual",1,JAN
+364,Sale,364Nav80,"Navy Floral Light Halter",80123,"Abigail Thomas","Online Individual",1,JAN
+365,Sale,365Nav80,"Navy Floral Light Halter",80123,"Hailey Stevens","Online Individual",1,JAN
+366,Sale,366Nav80,"Navy Floral Light Halter",80123,"Kimberly Richards","Online Individual",1,JAN
+367,Sale,367Nav80,"Navy Floral Light Halter",80123,"Lucia Cunningham","Online Individual",1,JAN
+368,Sale,368Nav80,"Navy Floral Light Halter",80123,"Violet Alexander","Online Individual",1,FEB
+369,Sale,369Nav80,"Navy Floral Light Halter",80123,"Melanie Turner","Online Individual",1,FEB
+370,Sale,370Nav80,"Navy Floral Light Halter",80123,"Miley Hall","Online Individual",1,FEB
+371,Sale,371Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+372,Sale,372Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+373,Sale,373Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+374,Sale,374Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+375,Sale,375Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+376,Sale,376Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+377,Sale,377Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+378,Sale,378Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+379,Sale,379Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+380,Sale,380Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+381,Sale,381Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+382,Sale,382Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,FEB
+383,Sale,383Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+384,Sale,384Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+385,Sale,385Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+386,Sale,386Nav80,"Navy Floral Light Halter",80123,"Florrie Thomas","Online Individual",1,JAN
+387,Sale,387Nav80,"Navy Floral Light Halter",80123,"Adelaide Martin","Online Individual",1,JAN
+388,Sale,388Nav80,"Navy Floral Light Halter",80123,"Nicole Ross","Online Individual",1,JAN
+389,Sale,389Nav80,"Navy Floral Light Halter",80123,"Julia Armstrong","Online Individual",1,JAN
+390,Sale,390Nav80,"Navy Floral Light Halter",80123,"Naomi Montgomery","Online Individual",1,JAN
+391,Sale,391Whi33,"White Ellery Wedding Gown",33101,"Alexia Williams","Online Individual",1,FEB
+392,Sale,392Bla90,"Black Crepe Business Jacket",90005,"Anna Smith","Online Individual",1,FEB
+393,Sale,393Bla90,"Black Crepe Business Jacket",90005,"Savana Brown","Online Individual",1,FEB
+394,Sale,394Bla90,"Black Crepe Business Jacket",90005,"Vanessa Evans","Online Individual",1,FEB
+395,Sale,395Bla90,"Black Crepe Business Jacket",90005,"Chelsea Murphy","Online Individual",1,FEB
+396,Sale,396Bla90,"Black Crepe Business Jacket",90005,"Sophia Chapman","Online Individual",1,FEB
+397,Sale,397Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+398,Sale,398Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+399,Sale,399Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+400,Sale,400Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+401,Sale,401Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+402,Sale,402Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+403,Sale,403Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+404,Sale,404Bla90,"Black Crepe Business Jacket",90005,"Alisa Ferguson","Online Individual",1,FEB
+405,Sale,405Bla90,"Black Crepe Business Jacket",90005,"Mary Ferguson","Online Individual",1,FEB
+406,Sale,406Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+407,Sale,407Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+408,Sale,408Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+409,Sale,409Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+410,Sale,410Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+411,Sale,411Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+412,Sale,412Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+413,Sale,413Bla90,"Black Crepe Business Jacket",90005,"Vivian Ellis","Online Individual",1,FEB
+414,Sale,414Bla90,"Black Crepe Business Jacket",90005,"Lydia Hunt","Online Individual",1,FEB
+416,Sale,416Bla90,"Black Crepe Business Jacket",90005,"Kate Turner","Online Individual",1,FEB
+417,Sale,417Bla90,"Black Crepe Business Jacket",90005,"Alisa Carter","Online Individual",1,FEB
+418,Sale,418Car33,"Carissa Cocktail Gown",33101,"Heather Russell","Online Individual",1,FEB
+419,Sale,419Car33,"Carissa Cocktail Gown",33101,"Daisy Scott","Online Individual",1,FEB
+420,Sale,420Car33,"Carissa Cocktail Gown",33101,"Kirsten Harris","Online Individual",1,FEB
+421,Sale,421Car33,"Carissa Cocktail Gown",33101,"Arianna Thompson","Online Individual",1,FEB
+422,Sale,422Car33,"Carissa Cocktail Gown",33101,"Elise Edwards","Online Individual",1,FEB
+423,Sale,423Car33,"Carissa Cocktail Gown",33101,"Briony Clark","Online Individual",1,FEB
+424,Sale,424Car33,"Carissa Cocktail Gown",33101,"Rebecca Morris","Online Individual",1,FEB
+425,Sale,425Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+426,Sale,426Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+427,Sale,427Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+428,Sale,428Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+429,Sale,429Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+430,Sale,430Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+433,Sale,433Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+434,Sale,434Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+435,Sale,435Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+436,Sale,436Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+437,Sale,437Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+438,Sale,438Car33,"Carissa Cocktail Gown",33101,"Kate Thompson","Online Individual",1,FEB
+439,Sale,439Car33,"Carissa Cocktail Gown",33101,"Tara Ellis","Online Individual",1,FEB
+440,Sale,440Car33,"Carissa Cocktail Gown",33101,"Myra Farrell","Online Individual",1,FEB
+441,Sale,441Car33,"Carissa Cocktail Gown",33101,"Chloe Ellis","Online Individual",1,FEB
+442,Sale,442Car33,"Carissa Cocktail Gown",33101,"Caroline Farrell","Online Individual",1,FEB
+443,Sale,443Car33,"Carissa Cocktail Gown",33101,"Kelsey Reed","Online Individual",1,FEB
+444,Sale,444Nav33,"Navy Floral Light Halter",33101,"Elise Hawkins","Online Individual",1,FEB
+445,Sale,445Car33,"Carissa Cocktail Gown",33101,"Lana Baker","Online Individual",1,FEB
+446,Sale,446Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+447,Sale,447Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+448,Sale,448Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+449,Sale,449Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+450,Sale,450Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+451,Sale,451Whi33,"White Ellery Wedding Gown",33101,"Neiman Marcus","Retail Buyer",1,FEB
+452,Sale,452Car33,"Carissa Cocktail Gown",33101,"Lydia Owens","Online Individual",1,MAR
+453,Sale,453Car33,"Carissa Cocktail Gown",33101,"Briony Armstrong","Online Individual",1,MAR
+454,Sale,454Car33,"Carissa Cocktail Gown",33101,"Ali Gibs","Online Individual",1,MAR
+455,Sale,455Car33,"Carissa Cocktail Gown",33101,"Connie Harper","Online Individual",1,MAR
+456,Sale,456Car33,"Carissa Cocktail Gown",33125,"Amy Ellis","Online Individual",1,MAR
+457,Sale,457Car33,"Carissa Cocktail Gown",33125,"Abigail Rogers","Online Individual",1,MAR
+460,Sale,460Car33,"Carissa Cocktail Gown",33125,"Emily Tucker","Online Individual",1,MAR
+461,Sale,461Car33,"Carissa Cocktail Gown",33125,"Honua Tho","Online Individual",1,MAR
+462,Sale,462Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+464,Sale,464Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+466,Sale,466Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+467,Sale,467Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+468,Sale,468Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+470,Sale,470Nav33,"Navy Floral Light Halter",33125,Kohls,"Retail Buyer",1,MAR
+472,Sale,472Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+473,Sale,473Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+474,Sale,474Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+475,Sale,475Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+477,Sale,477Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+478,Sale,478Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+479,Sale,479Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+480,Sale,480Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+481,Sale,481Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+485,Sale,485Car33,"Carissa Cocktail Gown",33125,"Rubie Murphy","Online Individual",1,MAR
+490,Sale,490Red33,"Red Poplin Summer Dress",33125,Kohls,"Retail Buyer",1,MAR
+492,Sale,492Car33,"Carissa Cocktail Gown",33125,"Janice Harkins","Online Individual",1,MAR
+493,Sale,493Car33,"Carissa Cocktail Gown",33125,"Lydia Perry","Online Individual",1,MAR
+494,Sale,494Car33,"Carissa Cocktail Gown",33125,"Maddie Gray","Online Individual",1,MAR
+495,Sale,495Car33,"Carissa Cocktail Gown",33125,"Isabella Campbell","Online Individual",1,MAR
+496,Sale,496Car33,"Carissa Cocktail Gown",33125,"Olivia Cunningham","Online Individual",1,MAR
+499,Sale,499Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+500,Sale,500Bla90,"Black Crepe Business Jacket",90005,"Paige Mitchell","Online Individual",1,FEB
+501,Sale,501Bla33,"Black Crepe Business Jacket",33159,"Neiman Marcus","Retail Buyer",1,MAR
+503,Sale,503Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+504,Sale,504Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+505,Sale,505Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+506,Sale,506Car33,"Carissa Cocktail Gown",33159,"Charlotte Scott","Online Individual",1,MAR
+507,Sale,507Car33,"Carissa Cocktail Gown",33159,"Melissa Douglas","Online Individual",1,MAR
+508,Sale,508Car33,"Carissa Cocktail Gown",33159,"Alberta Edwards","Online Individual",1,MAR
+509,Sale,509Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+513,Sale,513Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+514,Sale,514Bla90,"Black Crepe Business Jacket",90005,"Camila Nelson","Online Individual",1,FEB
+516,Sale,516Bla90,"Black Crepe Business Jacket",90005,"Myra Murphy","Online Individual",1,FEB
+517,Sale,517Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+518,Sale,518Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+519,Sale,519Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+520,Sale,520Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+521,Sale,521Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+522,Sale,522Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+523,Sale,523Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+524,Sale,524Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+525,Sale,525Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+526,Sale,526Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+527,Sale,527Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+528,Sale,528Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+529,Sale,529Car33,"Carissa Cocktail Gown",33159,"Natalie Harrison","Online Individual",1,MAR
+530,Sale,530Whi33,"White Ellery Wedding Gown",33159,"Tess Dixon","Online Individual",1,MAR
+531,Sale,531Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+532,Sale,532Whi33,"White Ellery Wedding Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+533,Sale,533Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+534,Sale,534Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+535,Sale,535Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+536,Sale,536Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+537,Sale,537Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+538,Sale,538Bla90,"Black Crepe Business Jacket",90005,"Sydney Harris","Online Individual",1,FEB
+539,Sale,539Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+540,Sale,540Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+541,Sale,541Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+542,Sale,542Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+543,Sale,543Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+544,Sale,544Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+545,Sale,545Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+546,Sale,546Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+547,Sale,547Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+548,Sale,548Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+549,Sale,549Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+550,Sale,550Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+551,Sale,551Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+552,Sale,552Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+553,Sale,553Bla90,"Black Crepe Business Jacket",90005,Bloomingdales,"Retail Buyer",1,FEB
+554,Sale,554Car33,"Carissa Cocktail Gown",33159,"Neiman Marcus","Retail Buyer",1,MAR
+555,Sale,555Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+556,Sale,556Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+557,Sale,557Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+558,Sale,558Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+559,Sale,559Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+560,Sale,560Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+561,Sale,561Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+562,Sale,562Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+563,Sale,563Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+564,Sale,564Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+565,Sale,565Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+566,Sale,566Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+567,Sale,567Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+568,Sale,568Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+569,Sale,569Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+570,Sale,570Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+571,Sale,571Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+572,Sale,572Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+573,Sale,573Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+574,Sale,574Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+596,Sale,596Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+598,Sale,598Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+599,Sale,599Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+601,Sale,601Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+603,Sale,603Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+604,Sale,604Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+605,Sale,605Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+610,Sale,610Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+612,Sale,612Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+613,Sale,613Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,JAN
+614,Sale,614Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+615,Sale,615Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+616,Sale,616Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+617,Sale,617Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+618,Sale,618Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+619,Sale,619Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+620,Sale,620Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+621,Sale,621Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+622,Sale,622Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+623,Sale,623Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+624,Sale,624Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+625,Sale,625Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+626,Sale,626Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+627,Sale,627Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+628,Sale,628Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+629,Sale,629Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+630,Sale,630Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+631,Sale,631Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,JAN
+632,Sale,632Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+633,Sale,633Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+634,Sale,634Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+635,Sale,635Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+636,Sale,636Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+637,Sale,637Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+638,Sale,638Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+639,Sale,639Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+640,Sale,640Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+641,Sale,641Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+642,Sale,642Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+643,Sale,643Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+644,Sale,644Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+645,Sale,645Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+650,Sale,650Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+651,Sale,651Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+652,Sale,652Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+653,Sale,653Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+654,Sale,654Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+660,Sale,660Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+661,Sale,661Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+662,Sale,662Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+664,Sale,664Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+665,Sale,665Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+667,Sale,667Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+669,Sale,669Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+671,Sale,671Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+673,Sale,673Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+677,Sale,677Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+678,Sale,678Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+685,Sale,685Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+686,Sale,686Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+687,Sale,687Sus10,"Susy Winter Coat",10022,"Barneys New York","Retail Buyer",1,FEB
+691,Sale,691Red90,"Red Poplin Summer Dress",90005,"Mary Kelly","Online Individual",1,FEB
+692,Sale,692Red90,"Red Poplin Summer Dress",90005,"Ryan Evans","Online Individual",1,FEB
+693,Sale,693Bla90,"Black Crepe Business Jacket",90005,"Ashton Watson","Online Individual",1,FEB
+694,Sale,694Red90,"Red Poplin Summer Dress",90005,"Olivia Miller","Online Individual",1,MAR
+696,Sale,696Bla90,"Black Crepe Business Jacket",90005,"Robert Roberts","Online Individual",1,FEB
+706,Sale,706Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+708,Sale,708Red10,"Red Poplin Summer Dress",10022,Macys,"Retail Buyer",1,MAR
+719,Sale,719Red10,"Red Poplin Summer Dress",10022,"Jenna Miller","Online Individual",1,MAR
+720,Sale,720Red10,"Red Poplin Summer Dress",10022,"Lana Bennett","Online Individual",1,MAR
+722,Sale,722Red10,"Red Poplin Summer Dress",10022,"Thomas Mitchell","Online Individual",1,MAR
+723,Sale,723Red10,"Red Poplin Summer Dress",10022,"Mike Perry","Online Individual",1,MAR
+724,Sale,724Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+725,Sale,725Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+732,Sale,732Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+733,Sale,733Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+734,Sale,734Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+739,Sale,739Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+740,Sale,740Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+741,Sale,741Red10,"Red Poplin Summer Dress",10022,JCPenney,"Retail Buyer",1,MAR
+743,Sale,743Bla90,"Black Crepe Business Jacket",90005,"Eleanor Clark","Online Individual",1,FEB
+744,Sale,744Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+745,Sale,745Bla90,"Black Crepe Business Jacket",90005,"Bruce Myers","Online Individual",1,FEB
+746,Sale,746Whi33,"White Ellery Wedding Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+747,Sale,747Bla90,"Black Crepe Business Jacket",90005,"Paige Murray","Online Individual",1,FEB
+748,Sale,748Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+749,Sale,749Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+750,Sale,750Car33,"Carissa Cocktail Gown",33101,"Bruce Payne","Online Individual",1,MAR
+751,Sale,751Car33,"Carissa Cocktail Gown",33101,"Ted Jones","Online Individual",1,MAR
+752,Sale,752Car33,"Carissa Cocktail Gown",33101,"Julian Edwards","Online Individual",1,MAR
+753,Sale,753Car33,"Carissa Cocktail Gown",33101,"Kellan Ryan","Online Individual",1,MAR
+754,Sale,754Car33,"Carissa Cocktail Gown",33101,"Carl Moore","Online Individual",1,MAR
+755,Sale,755Car33,"Carissa Cocktail Gown",33101,"David Davis","Online Individual",1,MAR
+756,Sale,756Car33,"Carissa Cocktail Gown",33101,"Amelia Ellis","Online Individual",1,MAR
+757,Sale,757Car33,"Carissa Cocktail Gown",33101,"Amber Cameron","Online Individual",1,MAR
+758,Sale,758Car33,"Carissa Cocktail Gown",33101,"Steven Casey","Online Individual",1,MAR
+759,Sale,759Car33,"Carissa Cocktail Gown",33101,"Edwin Cole","Online Individual",1,MAR
+760,Sale,760Car33,"Carissa Cocktail Gown",33101,"Martin Ross","Online Individual",1,MAR
+761,Sale,761Car33,"Carissa Cocktail Gown",33101,"Emily Wells","Online Individual",1,MAR
+762,Sale,762Car33,"Carissa Cocktail Gown",33101,"Kellan Johnson","Online Individual",1,MAR
+763,Sale,763Car33,"Carissa Cocktail Gown",33101,"Adelaide Johnston","Online Individual",1,MAR
+764,Sale,764Car33,"Carissa Cocktail Gown",33101,"Amy Moore","Online Individual",1,MAR
+765,Sale,765Car33,"Carissa Cocktail Gown",33101,"Martin Scott","Online Individual",1,MAR
+766,Sale,766Car33,"Carissa Cocktail Gown",33101,"Oliver Baker","Online Individual",1,MAR
+767,Sale,767Car33,"Carissa Cocktail Gown",33101,"Naomi Wilson","Online Individual",1,MAR
+768,Sale,768Car33,"Carissa Cocktail Gown",33101,"Abraham Cole","Online Individual",1,MAR
+769,Sale,769Car33,"Carissa Cocktail Gown",33101,"Jared Robinson","Online Individual",1,MAR
+770,Sale,770Car33,"Carissa Cocktail Gown",33101,"Daniel Payne","Online Individual",1,MAR
+771,Sale,771Car33,"Carissa Cocktail Gown",33101,"Aston Richardson","Online Individual",1,MAR
+772,Sale,772Car33,"Carissa Cocktail Gown",33101,"Oscar Cameron","Online Individual",1,MAR
+773,Sale,773Car33,"Carissa Cocktail Gown",33101,"Myra Taylor","Online Individual",1,MAR
+774,Sale,774Car33,"Carissa Cocktail Gown",33101,"Owen Lloyd","Online Individual",1,MAR
+775,Sale,775Car33,"Carissa Cocktail Gown",33101,"Adrian Moore","Online Individual",1,MAR
+776,Sale,776Car33,"Carissa Cocktail Gown",33101,"Jordan Elliott","Online Individual",1,MAR
+777,Sale,777Car33,"Carissa Cocktail Gown",33101,"Honey Johnston","Online Individual",1,MAR
+778,Sale,778Car33,"Carissa Cocktail Gown",33101,"Tyler Cole","Online Individual",1,MAR
+779,Sale,779Car33,"Carissa Cocktail Gown",33101,"Brooke Russell","Online Individual",1,MAR
+780,Sale,780Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+782,Sale,782Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+783,Sale,783Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+784,Sale,784Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+785,Sale,785Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+786,Sale,786Nav33,"Navy Floral Light Halter",33101,"Fiona Russell","Online Individual",1,MAR
+787,Sale,787Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+788,Sale,788Nav33,"Navy Floral Light Halter",33101,"Aston Casey","Online Individual",1,MAR
+789,Sale,789Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+790,Sale,790Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+791,Sale,791Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+792,Sale,792Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+793,Sale,793Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+794,Sale,794Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+795,Sale,795Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+796,Sale,796Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+797,Sale,797Car33,"Carissa Cocktail Gown",33101,"Neiman Marcus","Retail Buyer",1,MAR
+798,Sale,798Car33,"Carissa Cocktail Gown",33101,"Edgar Scott","Online Individual",1,MAR
+799,Sale,799Car33,"Carissa Cocktail Gown",33101,"Elian Wells","Online Individual",1,MAR
+800,Sale,800Car33,"Carissa Cocktail Gown",33101,Nordstrom,"Retail Buyer",1,MAR
+801,Sale,801Car33,"Carissa Cocktail Gown",33101,Nordstrom,"Retail Buyer",1,MAR
+802,Sale,802Car33,"Carissa Cocktail Gown",33101,Nordstrom,"Retail Buyer",1,MAR
+803,Sale,803Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+804,Sale,804Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+805,Sale,805Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+806,Sale,806Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+807,Sale,807Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+808,Sale,808Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+809,Sale,809Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+810,Sale,810Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+811,Sale,811Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+812,Sale,812Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+813,Sale,813Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+814,Sale,814Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+815,Sale,815Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+816,Sale,816Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+817,Sale,817Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+818,Sale,818Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+819,Sale,819Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+820,Sale,820Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+821,Sale,821Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+822,Sale,822Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+823,Sale,823Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+824,Sale,824Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+825,Sale,825Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+826,Sale,826Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+827,Sale,827Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+828,Sale,828Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+829,Sale,829Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+830,Sale,830Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+831,Sale,831Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+832,Sale,832Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+833,Sale,833Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+834,Sale,834Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+835,Sale,835Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+836,Sale,836Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+837,Sale,837Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+838,Sale,838Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+839,Sale,839Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+840,Sale,840Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+841,Sale,841Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+842,Sale,842Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+843,Sale,843Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+844,Sale,844Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+845,Sale,845Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+846,Sale,846Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+847,Sale,847Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+848,Sale,848Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+849,Sale,849Sus10,"Susy Winter Coat",10013,"Barneys New York","Retail Buyer",1,FEB
+850,Sale,850Car33,"Carissa Cocktail Gown",33125,"Ted Russell","Online Individual",1,MAR
+851,Sale,851Whi33,"White Ellery Wedding Gown",33125,"Carlos Lloyd","Online Individual",1,MAR
+852,Sale,852Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+853,Sale,853Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+854,Sale,854Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+855,Sale,855Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+856,Sale,856Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+857,Sale,857Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+858,Sale,858Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+859,Sale,859Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+860,Sale,860Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+861,Sale,861Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+862,Sale,862Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+863,Sale,863Car33,"Carissa Cocktail Gown",33125,"Honey Thomas","Online Individual",1,MAR
+864,Sale,864Car33,"Carissa Cocktail Gown",33125,"Paul Reed","Online Individual",1,MAR
+865,Sale,865Car33,"Carissa Cocktail Gown",33125,"Derek Tucker","Online Individual",1,MAR
+866,Sale,866Car33,"Carissa Cocktail Gown",33125,"Blake Murphy","Online Individual",1,MAR
+867,Sale,867Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+868,Sale,868Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+869,Sale,869Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+870,Sale,870Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+871,Sale,871Car33,"Carissa Cocktail Gown",33125,"James Brooks","Online Individual",1,MAR
+872,Sale,872Car33,"Carissa Cocktail Gown",33125,"Deanna Martin","Online Individual",1,MAR
+873,Sale,873Car33,"Carissa Cocktail Gown",33125,"Alan West","Online Individual",1,MAR
+874,Sale,874Car33,"Carissa Cocktail Gown",33125,"Valeria Perkins","Online Individual",1,MAR
+875,Sale,875Car33,"Carissa Cocktail Gown",33125,"Eleanor Carter","Online Individual",1,MAR
+876,Sale,876Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+877,Sale,877Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+878,Sale,878Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+879,Sale,879Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+880,Sale,880Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+881,Sale,881Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+882,Sale,882Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+883,Sale,883Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+884,Sale,884Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+885,Sale,885Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+886,Sale,886Whi33,"White Ellery Wedding Gown",33125,"Cherry Holmes","Online Individual",1,MAR
+887,Sale,887Whi33,"White Ellery Wedding Gown",33125,"Amanda Morrison","Online Individual",1,MAR
+888,Sale,888Whi33,"White Ellery Wedding Gown",33125,"Alisa Jones","Online Individual",1,MAR
+889,Sale,889Car33,"Carissa Cocktail Gown",33125,"Lilianna Barrett","Online Individual",1,MAR
+890,Sale,890Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+891,Sale,891Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+892,Sale,892Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+893,Sale,893Car33,"Carissa Cocktail Gown",33125,"Deanna Johnston","Online Individual",1,MAR
+894,Sale,894Car33,"Carissa Cocktail Gown",33125,"Sydney Wright","Online Individual",1,MAR
+895,Sale,895Car33,"Carissa Cocktail Gown",33125,"Savana Holmes","Online Individual",1,MAR
+896,Sale,896Car33,"Carissa Cocktail Gown",33125,"Lana Alexander","Online Individual",1,MAR
+897,Sale,897Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+898,Sale,898Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+899,Sale,899Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+900,Sale,900Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+901,Sale,901Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+902,Sale,902Whi33,"White Ellery Wedding Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+903,Sale,903Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+904,Sale,904Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+905,Sale,905Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+906,Sale,906Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+907,Sale,907Car33,"Carissa Cocktail Gown",33125,"Neiman Marcus","Retail Buyer",1,MAR
+908,Sale,908Car33,"Carissa Cocktail Gown",33125,"Fiona Hill","Online Individual",1,MAR
+909,Sale,909Car33,"Carissa Cocktail Gown",33125,"Paige Harrison","Online Individual",1,MAR
+910,Sale,910Car33,"Carissa Cocktail Gown",33125,"Adelaide Murray","Online Individual",1,MAR
+911,Sale,911Car33,"Carissa Cocktail Gown",33125,"Adrianna Gray","Online Individual",1,MAR
+912,Sale,912Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+913,Sale,913Car33,"Carissa Cocktail Gown",33125,"Lily Spencer","Online Individual",1,MAR
+914,Sale,914Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+915,Sale,915Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+916,Sale,916Car33,"Carissa Cocktail Gown",33125,Nordstrom,"Retail Buyer",1,MAR
+917,Sale,917Car33,"Carissa Cocktail Gown",33125,"Rubie Harris","Online Individual",1,MAR
+918,Sale,918Car33,"Carissa Cocktail Gown",33125,"Savana Hall","Online Individual",1,MAR
+919,Sale,919Car33,"Carissa Cocktail Gown",33125,"Melanie Owens","Online Individual",1,MAR
+920,Sale,920Nav80,"Navy Floral Light Halter",80123,"Alberta Robinson","Online Individual",1,JAN
+921,Sale,921Nav80,"Navy Floral Light Halter",80123,"Ema Mill","Online Individual",1,JAN
+922,Sale,922Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+923,Sale,923Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+924,Sale,924Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+925,Sale,925Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+926,Sale,926Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+927,Sale,927Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+928,Sale,928Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+929,Sale,929Red80,"Red Poplin Summer Dress",80123,Target,"Retail Buyer",1,JAN
+930,Sale,930Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+931,Sale,931Nav80,"Navy Floral Light Halter",80123,"Lucy Andrews","Online Individual",1,JAN
+932,Sale,932Nav80,"Navy Floral Light Halter",80123,"Heather Andrews","Online Individual",1,JAN
+933,Sale,933Nav80,"Navy Floral Light Halter",80123,"Maya Mason","Online Individual",1,JAN
+934,Sale,934Nav80,"Navy Floral Light Halter",80123,"Valeria Reed","Online Individual",1,JAN
+935,Sale,935Nav80,"Navy Floral Light Halter",80123,"Ada Moore","Online Individual",1,JAN
+936,Sale,936Nav80,"Navy Floral Light Halter",80123,"Grace Johnston","Online Individual",1,JAN
+937,Sale,937Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+938,Sale,938Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+939,Sale,939Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+940,Sale,940Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+941,Sale,941Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+942,Sale,942Red80,"Red Poplin Summer Dress",80123,Macys,"Retail Buyer",1,JAN
+943,Sale,943Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+944,Sale,944Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+945,Sale,945Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+946,Sale,946Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+947,Sale,947Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+948,Sale,948Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+949,Sale,949Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+950,Sale,950Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+951,Sale,951Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+952,Sale,952Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+953,Sale,953Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+954,Sale,954Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+955,Sale,955Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+956,Sale,956Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+957,Sale,957Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+958,Sale,958Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+959,Sale,959Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+960,Sale,960Nav80,"Navy Floral Light Halter",80123,Macys,"Retail Buyer",1,JAN
+961,Sale,961Nav80,"Navy Floral Light Halter",80123,"Sabrina Ryan","Online Individual",1,JAN
+962,Sale,962Nav80,"Navy Floral Light Halter",80123,"Penelope Armstrong","Online Individual",1,JAN
+963,Sale,963Nav80,"Navy Floral Light Halter",80123,"Maya Wright","Online Individual",1,JAN
+964,Sale,964Nav80,"Navy Floral Light Halter",80123,"Lilianna Carter","Online Individual",1,JAN
+965,Sale,965Nav80,"Navy Floral Light Halter",80123,"Melissa Scott","Online Individual",1,JAN
+966,Sale,966Nav80,"Navy Floral Light Halter",80123,"Ellia Henderson","Online Individual",1,JAN
+978,Sale,978Nav80,"Navy Floral Light Halter",80123,"Lydia Russell","Online Individual",1,JAN
+980,Sale,980Nav80,"Navy Floral Light Halter",80123,"Alisa Kelley","Online Individual",1,JAN
+981,Sale,981Nav80,"Navy Floral Light Halter",80123,"Michelle Barnes","Online Individual",1,JAN
+983,Sale,983Nav80,"Navy Floral Light Halter",80123,"Miley Reed","Online Individual",1,JAN
+984,Sale,984Nav80,"Navy Floral Light Halter",80123,"Olivia Cameron","Online Individual",1,JAN
+1109,Sale,1109Nav80,"Navy Floral Light Halter",80123,"Kate Williams","Online Individual",1,JAN
+1110,Sale,1110Nav80,"Navy Floral Light Halter",80123,"Naomi Adams","Online Individual",1,JAN
+1111,Sale,1111Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1112,Sale,1112Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1113,Sale,1113Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1114,Sale,1114Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1115,Sale,1115Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1116,Sale,1116Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1117,Sale,1117Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1118,Sale,1118Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1119,Sale,1119Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1120,Sale,1120Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1121,Sale,1121Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1122,Sale,1122Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1123,Sale,1123Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1124,Sale,1124Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1125,Sale,1125Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1126,Sale,1126Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1127,Sale,1127Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1128,Sale,1128Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1129,Sale,1129Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1130,Sale,1130Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1131,Sale,1131Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1132,Sale,1132Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1133,Sale,1133Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1134,Sale,1134Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1135,Sale,1135Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1136,Sale,1136Nav80,"Navy Floral Light Halter",80123,Target,"Retail Buyer",1,JAN
+1137,Sale,1137Nav80,"Navy Floral Light Halter",80123,"Neiman Marcus","Retail Buyer",1,JAN
+1138,Sale,1138Nav80,"Navy Floral Light Halter",80123,"Neiman Marcus","Retail Buyer",1,JAN
+1139,Sale,1139Nav80,"Navy Floral Light Halter",80123,"Neiman Marcus","Retail Buyer",1,JAN
+1140,Sale,1140Nav80,"Navy Floral Light Halter",80123,"Neiman Marcus","Retail Buyer",1,JAN
+1141,Sale,1141Nav80,"Navy Floral Light Halter",80123,"Neiman Marcus","Retail Buyer",1,JAN
+1142,Sale,1142Nav80,"Navy Floral Light Halter",80123,"Neiman Marcus","Retail Buyer",1,JAN
+1143,Sale,1143Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1144,Sale,1144Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1145,Sale,1145Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1146,Sale,1146Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1147,Sale,1147Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1148,Sale,1148Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1149,Sale,1149Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1150,Sale,1150Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1151,Sale,1151Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1152,Sale,1152Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1153,Sale,1153Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1154,Sale,1154Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1155,Sale,1155Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1156,Sale,1156Red10,"Red Poplin Summer Dress",10001,"Emma Farrell","Online Individual",1,MAR
+1157,Sale,1157Red10,"Red Poplin Summer Dress",10001,"Samantha Chapman","Online Individual",1,MAR
+1158,Sale,1158Red10,"Red Poplin Summer Dress",10001,"Joyce Miller","Online Individual",1,MAR
+1159,Sale,1159Red10,"Red Poplin Summer Dress",10001,"Connie Mitchell","Online Individual",1,MAR
+1160,Sale,1160Red10,"Red Poplin Summer Dress",10001,"Joyce Hill","Online Individual",1,MAR
+1161,Sale,1161Red10,"Red Poplin Summer Dress",10001,"Alissa Carter","Online Individual",1,MAR
+1162,Sale,1162Red10,"Red Poplin Summer Dress",10001,"Adelaide West","Online Individual",1,MAR
+1163,Sale,1163Red10,"Red Poplin Summer Dress",10001,"Gianna Murray","Online Individual",1,MAR
+1164,Sale,1164Red10,"Red Poplin Summer Dress",10001,"Valeria Foster","Online Individual",1,MAR
+1165,Sale,1165Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1166,Sale,1166Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1167,Sale,1167Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1168,Sale,1168Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1169,Sale,1169Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1170,Sale,1170Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1171,Sale,1171Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1172,Sale,1172Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1173,Sale,1173Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1174,Sale,1174Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1175,Sale,1175Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1176,Sale,1176Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1177,Sale,1177Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1178,Sale,1178Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1179,Sale,1179Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1180,Sale,1180Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1181,Sale,1181Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1182,Sale,1182Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1183,Sale,1183Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1184,Sale,1184Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1185,Sale,1185Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1186,Sale,1186Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1187,Sale,1187Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1188,Sale,1188Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1189,Sale,1189Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1190,Sale,1190Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1191,Sale,1191Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1192,Sale,1192Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1193,Sale,1193Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1194,Sale,1194Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1195,Sale,1195Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1196,Sale,1196Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1197,Sale,1197Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1198,Sale,1198Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1199,Sale,1199Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1200,Sale,1200Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1201,Sale,1201Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1202,Sale,1202Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1203,Sale,1203Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1204,Sale,1204Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1205,Sale,1205Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1206,Sale,1206Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1207,Sale,1207Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1208,Sale,1208Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1209,Sale,1209Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1210,Sale,1210Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1211,Sale,1211Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1212,Sale,1212Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1213,Sale,1213Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1214,Sale,1214Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1215,Sale,1215Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,FEB
+1216,Sale,1216Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1217,Sale,1217Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1218,Sale,1218Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1219,Sale,1219Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1220,Sale,1220Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1221,Sale,1221Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1222,Sale,1222Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1223,Sale,1223Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1224,Sale,1224Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1225,Sale,1225Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1226,Sale,1226Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1227,Sale,1227Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1228,Sale,1228Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1229,Sale,1229Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1230,Sale,1230Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1231,Sale,1231Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1232,Sale,1232Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1233,Sale,1233Sus10,"Susy Winter Coat",10001,"Barneys New York","Retail Buyer",1,MAR
+1234,Sale,1234Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1235,Sale,1235Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1236,Sale,1236Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1237,Sale,1237Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1238,Sale,1238Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1239,Sale,1239Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1240,Sale,1240Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1241,Sale,1241Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1242,Sale,1242Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1243,Sale,1243Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1244,Sale,1244Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1245,Sale,1245Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1246,Sale,1246Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1247,Sale,1247Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1248,Sale,1248Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1249,Sale,1249Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1250,Sale,1250Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1251,Sale,1251Red10,"Red Poplin Summer Dress",10001,"Connie Hawkins","Online Individual",1,MAR
+1252,Sale,1252Red10,"Red Poplin Summer Dress",10001,"Honey Sullivan","Online Individual",1,MAR
+1253,Sale,1253Red10,"Red Poplin Summer Dress",10001,"Connie Murphy","Online Individual",1,MAR
+1254,Sale,1254Red10,"Red Poplin Summer Dress",10001,"Myrada Sull","Online Individual",1,MAR
+1255,Sale,1255Red10,"Red Poplin Summer Dress",10001,"Tara Edwards","Online Individual",1,MAR
+1256,Sale,1256Red10,"Red Poplin Summer Dress",10001,"Cadie Crawford","Online Individual",1,MAR
+1257,Sale,1257Red10,"Red Poplin Summer Dress",10001,"Alina Barnes","Online Individual",1,MAR
+1258,Sale,1258Red10,"Red Poplin Summer Dress",10001,"Cherry Cunningham","Online Individual",1,MAR
+1259,Sale,1259Red10,"Red Poplin Summer Dress",10001,"Alexia Scott","Online Individual",1,MAR
+1260,Sale,1260Red10,"Red Poplin Summer Dress",10001,"Chloe Thompson","Online Individual",1,MAR
+1261,Sale,1261Red10,"Red Poplin Summer Dress",10001,"Rebecca Gray","Online Individual",1,MAR
+1262,Sale,1262Red10,"Red Poplin Summer Dress",10001,"Kimberly Mason","Online Individual",1,MAR
+1263,Sale,1263Red10,"Red Poplin Summer Dress",10001,"Hailey Morrison","Online Individual",1,MAR
+1264,Sale,1264Red10,"Red Poplin Summer Dress",10001,"Audrey Crawford","Online Individual",1,MAR
+1265,Sale,1265Red10,"Red Poplin Summer Dress",10001,"Michelle Perry","Online Individual",1,MAR
+1266,Sale,1266Red10,"Red Poplin Summer Dress",10001,"Brianna Harper","Online Individual",1,MAR
+1267,Sale,1267Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1268,Sale,1268Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1269,Sale,1269Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1270,Sale,1270Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1271,Sale,1271Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1272,Sale,1272Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1273,Sale,1273Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1274,Sale,1274Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1275,Sale,1275Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1276,Sale,1276Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1277,Sale,1277Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1278,Sale,1278Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1279,Sale,1279Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1280,Sale,1280Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1281,Sale,1281Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1282,Sale,1282Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1283,Sale,1283Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1284,Sale,1284Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1285,Sale,1285Red10,"Red Poplin Summer Dress",10001,"Lucy Montgomery","Online Individual",1,MAR
+1286,Sale,1286Red10,"Red Poplin Summer Dress",10001,"Mary Lloyd","Online Individual",1,MAR
+1287,Sale,1287Red10,"Red Poplin Summer Dress",10001,"Savana Farrell","Online Individual",1,MAR
+1288,Sale,1288Red10,"Red Poplin Summer Dress",10001,"Arianna Davis","Online Individual",1,MAR
+1289,Sale,1289Red10,"Red Poplin Summer Dress",10001,"Tess Harper","Online Individual",1,MAR
+1290,Sale,1290Red10,"Red Poplin Summer Dress",10001,"Natalie Jones","Online Individual",1,MAR
+1291,Sale,1291Red10,"Red Poplin Summer Dress",10001,"Naomi Spencer","Online Individual",1,MAR
+1292,Sale,1292Red10,"Red Poplin Summer Dress",10001,"Florrie Riley","Online Individual",1,MAR
+1293,Sale,1293Red10,"Red Poplin Summer Dress",10001,"Darcy Lloyd","Online Individual",1,MAR
+1294,Sale,1294Red10,"Red Poplin Summer Dress",10001,"Darcy Rogers","Online Individual",1,MAR
+1295,Sale,1295Red10,"Red Poplin Summer Dress",10001,"Darcy Roberts","Online Individual",1,MAR
+1296,Sale,1296Red10,"Red Poplin Summer Dress",10001,"Charlotte Russell","Online Individual",1,MAR
+1297,Sale,1297Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1298,Sale,1298Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1299,Sale,1299Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1300,Sale,1300Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1301,Sale,1301Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1302,Sale,1302Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1303,Sale,1303Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1304,Sale,1304Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1305,Sale,1305Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1306,Sale,1306Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1307,Sale,1307Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1308,Sale,1308Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1309,Sale,1309Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1310,Sale,1310Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1311,Sale,1311Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1312,Sale,1312Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1313,Sale,1313Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1314,Sale,1314Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1315,Sale,1315Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1316,Sale,1316Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1317,Sale,1317Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1318,Sale,1318Red10,"Red Poplin Summer Dress",10001,JCPenney,"Retail Buyer",1,MAR
+1319,Sale,1319Red10,"Red Poplin Summer Dress",10001,"Maddie Parker","Online Individual",1,MAR
+1320,Sale,1320Red10,"Red Poplin Summer Dress",10001,"Lilianna Ellis","Online Individual",1,MAR
+1321,Sale,1321Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1322,Sale,1322Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1323,Sale,1323Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1324,Sale,1324Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1325,Sale,1325Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1326,Sale,1326Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1327,Sale,1327Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1328,Sale,1328Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1329,Sale,1329Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1330,Sale,1330Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1331,Sale,1331Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1332,Sale,1332Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1333,Sale,1333Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1334,Sale,1334Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1335,Sale,1335Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1336,Sale,1336Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1337,Sale,1337Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1338,Sale,1338Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1339,Sale,1339Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1340,Sale,1340Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1341,Sale,1341Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1342,Sale,1342Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1343,Sale,1343Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1344,Sale,1344Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1345,Sale,1345Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1346,Sale,1346Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1347,Sale,1347Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1348,Sale,1348Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1349,Sale,1349Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1350,Sale,1350Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1351,Sale,1351Red10,"Red Poplin Summer Dress",10001,"Miley Walker","Online Individual",1,MAR
+1352,Sale,1352Red10,"Red Poplin Summer Dress",10001,"Madaline Parker","Online Individual",1,MAR
+1353,Sale,1353Red10,"Red Poplin Summer Dress",10001,"April Andrews","Online Individual",1,MAR
+1354,Sale,1354Red10,"Red Poplin Summer Dress",10001,"Savana Payne","Online Individual",1,MAR
+1355,Sale,1355Red10,"Red Poplin Summer Dress",10001,"Rebecca Jones","Online Individual",1,MAR
+1356,Sale,1356Red10,"Red Poplin Summer Dress",10001,"Myra Morris","Online Individual",1,MAR
+1357,Sale,1357Red10,"Red Poplin Summer Dress",10001,"Violet Russell","Online Individual",1,MAR
+1358,Sale,1358Red10,"Red Poplin Summer Dress",10001,"Sabrina Harrison","Online Individual",1,MAR
+1359,Sale,1359Red10,"Red Poplin Summer Dress",10001,"Alberta Smith","Online Individual",1,MAR
+1360,Sale,1360Red10,"Red Poplin Summer Dress",10001,"Evelyn Watson","Online Individual",1,MAR
+1361,Sale,1361Red10,"Red Poplin Summer Dress",10001,"Alina Gibson","Online Individual",1,MAR
+1362,Sale,1362Red10,"Red Poplin Summer Dress",10001,"Rebecca Ferguson","Online Individual",1,MAR
+1363,Sale,1363Red10,"Red Poplin Summer Dress",10001,"Rubie Payne","Online Individual",1,MAR
+1364,Sale,1364Red10,"Red Poplin Summer Dress",10001,"Carina Harrison","Online Individual",1,MAR
+1365,Sale,1365Red10,"Red Poplin Summer Dress",10001,"Alisa Holmes","Online Individual",1,MAR
+1366,Sale,1366Red10,"Red Poplin Summer Dress",10001,"Isabella Walker","Online Individual",1,MAR
+1367,Sale,1367Red10,"Red Poplin Summer Dress",10001,"Jasmine Richards","Online Individual",1,MAR
+1368,Sale,1368Red10,"Red Poplin Summer Dress",10001,"Myra Evans","Online Individual",1,MAR
+1369,Sale,1369Red10,"Red Poplin Summer Dress",10001,"Abigail Ross","Online Individual",1,MAR
+1370,Sale,1370Red10,"Red Poplin Summer Dress",10001,"Deanna Davis","Online Individual",1,MAR
+1371,Sale,1371Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1372,Sale,1372Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1373,Sale,1373Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1374,Sale,1374Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1375,Sale,1375Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1376,Sale,1376Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1377,Sale,1377Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1378,Sale,1378Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1379,Sale,1379Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1380,Sale,1380Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1381,Sale,1381Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1382,Sale,1382Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1383,Sale,1383Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1384,Sale,1384Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1385,Sale,1385Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1386,Sale,1386Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1387,Sale,1387Red10,"Red Poplin Summer Dress",10001,Macys,"Retail Buyer",1,MAR
+1388,Sale,1388Nav80,"Navy Floral Light Halter",80014,"Vanessa Lloyd","Online Individual",1,JAN
+1389,Sale,1389Nav80,"Navy Floral Light Halter",80014,"Joyce Hunt","Online Individual",1,JAN
+1390,Sale,1390Nav80,"Navy Floral Light Halter",80014,"Violet Wells","Online Individual",1,JAN
+1391,Sale,1391Nav80,"Navy Floral Light Halter",80014,"Maddie Phillips","Online Individual",1,JAN
+1392,Sale,1392Nav80,"Navy Floral Light Halter",80014,"Myra Nelson","Online Individual",1,JAN
+1393,Sale,1393Nav80,"Navy Floral Light Halter",80014,"Emily Hill","Online Individual",1,JAN
+1394,Sale,1394Nav80,"Navy Floral Light Halter",80014,"Fiona West","Online Individual",1,JAN
+1395,Sale,1395Nav80,"Navy Floral Light Halter",80014,"Connie Allen","Online Individual",1,JAN
+1396,Sale,1396Nav80,"Navy Floral Light Halter",80014,"Adelaide Crawford","Online Individual",1,JAN
+1397,Sale,1397Nav80,"Navy Floral Light Halter",80014,"Samantha Allen","Online Individual",1,JAN
+1398,Sale,1398Nav80,"Navy Floral Light Halter",80014,"Myra Morgan","Online Individual",1,JAN
+1399,Sale,1399Nav80,"Navy Floral Light Halter",80014,"Deanna Sullivan","Online Individual",1,JAN
+1400,Sale,1400Nav80,"Navy Floral Light Halter",80014,"Audrey Cameron","Online Individual",1,JAN
+1401,Sale,1401Nav80,"Navy Floral Light Halter",80014,"Catherine Ferguson","Online Individual",1,JAN
+1402,Sale,1402Nav80,"Navy Floral Light Halter",80014,"Adele Armstrong","Online Individual",1,JAN
+1403,Sale,1403Nav80,"Navy Floral Light Halter",80014,"Miranda Thompson","Online Individual",1,JAN
+1404,Sale,1404Nav80,"Navy Floral Light Halter",80014,"Myra Sullivan","Online Individual",1,JAN
+1405,Sale,1405Nav80,"Navy Floral Light Halter",80014,"Carina Gibson","Online Individual",1,JAN
+1406,Sale,1406Nav80,"Navy Floral Light Halter",80014,"Maddie Montgomery","Online Individual",1,JAN
+1407,Sale,1407Nav80,"Navy Floral Light Halter",80014,"Lydia Turner","Online Individual",1,JAN
+1408,Sale,1408Nav80,"Navy Floral Light Halter",80014,"Agata Hawkins","Online Individual",1,JAN
+1409,Sale,1409Nav80,"Navy Floral Light Halter",80014,"Paige Holmes","Online Individual",1,JAN
+1410,Sale,1410Nav80,"Navy Floral Light Halter",80014,"Brooke Spencer","Online Individual",1,JAN
+1411,Sale,1411Nav80,"Navy Floral Light Halter",80014,"Grace Hill","Online Individual",1,JAN
+1412,Sale,1412Nav80,"Navy Floral Light Halter",80014,"Lydia Ferguson","Online Individual",1,JAN
+1413,Sale,1413Nav80,"Navy Floral Light Halter",80014,"Briony Warren","Online Individual",1,JAN
+1414,Sale,1414Nav80,"Navy Floral Light Halter",80014,"Joyce Ross","Online Individual",1,JAN
+1415,Sale,1415Nav80,"Navy Floral Light Halter",80014,"Aida Montgomery","Online Individual",1,JAN
+1416,Sale,1416Nav80,"Navy Floral Light Halter",80014,"Ellia Foster","Online Individual",1,JAN
+1417,Sale,1417Nav80,"Navy Floral Light Halter",80014,"Connie Gray","Online Individual",1,JAN
+1418,Sale,1418Nav80,"Navy Floral Light Halter",80014,"Nicole Jones","Online Individual",1,JAN
+1419,Sale,1419Nav80,"Navy Floral Light Halter",80014,"Abigail Hawkins","Online Individual",1,JAN
+1420,Sale,1420Nav80,"Navy Floral Light Halter",80014,"Belinda Hamilton","Online Individual",1,JAN
+1421,Sale,1421Nav80,"Navy Floral Light Halter",80014,"April Chapman","Online Individual",1,JAN
+1422,Sale,1422Nav80,"Navy Floral Light Halter",80014,"Melissa Anderson","Online Individual",1,JAN
+1423,Sale,1423Nav80,"Navy Floral Light Halter",80014,"Stella Brown","Online Individual",1,JAN
+1424,Sale,1424Nav80,"Navy Floral Light Halter",80014,"Aida Spencer","Online Individual",1,JAN
+1425,Sale,1425Nav80,"Navy Floral Light Halter",80014,"Naomi Morgan","Online Individual",1,JAN
+1426,Sale,1426Nav80,"Navy Floral Light Halter",80014,"Chloe Miller","Online Individual",1,JAN
+1427,Sale,1427Nav80,"Navy Floral Light Halter",80014,"Lily Douglas","Online Individual",1,JAN
+1428,Sale,1428Nav80,"Navy Floral Light Halter",80014,"Lydia Wright","Online Individual",1,JAN
+1429,Sale,1429Nav80,"Navy Floral Light Halter",80014,"Kirsten Alexander","Online Individual",1,JAN
+1430,Sale,1430Nav80,"Navy Floral Light Halter",80014,"Penelope Miller","Online Individual",1,JAN
+1431,Sale,1431Nav80,"Navy Floral Light Halter",80014,"Sydney Henderson","Online Individual",1,JAN
+1432,Sale,1432Nav80,"Navy Floral Light Halter",80014,"Belinda Spencer","Online Individual",1,JAN
+1433,Sale,1433Nav80,"Navy Floral Light Halter",80014,"Isabella Ryan","Online Individual",1,JAN
+1434,Sale,1434Nav80,"Navy Floral Light Halter",80014,"Rebecca Kelley","Online Individual",1,JAN
+1435,Sale,1435Nav80,"Navy Floral Light Halter",80014,"Cherry Dixon","Online Individual",1,JAN
+1436,Sale,1436Nav80,"Navy Floral Light Halter",80014,"Sofia Douglas","Online Individual",1,JAN
+1437,Sale,1437Nav80,"Navy Floral Light Halter",80014,"Kimberly Morrison","Online Individual",1,JAN
+1438,Sale,1438Nav80,"Navy Floral Light Halter",80014,"Jenna Cameron","Online Individual",1,JAN
+1439,Sale,1439Nav80,"Navy Floral Light Halter",80014,"Alissa Richardson","Online Individual",1,JAN
+1440,Sale,1440Nav80,"Navy Floral Light Halter",80014,"Amelia Martin","Online Individual",1,JAN
+1441,Sale,1441Nav80,"Navy Floral Light Halter",80014,"Naomi Ryan","Online Individual",1,JAN
+1442,Sale,1442Nav80,"Navy Floral Light Halter",80014,"Sofia Johnston","Online Individual",1,JAN
+1443,Sale,1443Nav80,"Navy Floral Light Halter",80014,"Maddie Richardson","Online Individual",1,JAN
+1444,Sale,1444Nav80,"Navy Floral Light Halter",80014,"Maya Davis","Online Individual",1,JAN
+1445,Sale,1445Nav80,"Navy Floral Light Halter",80014,"Ellia Edwards","Online Individual",1,JAN
+1446,Sale,1446Nav80,"Navy Floral Light Halter",80014,"Grace Johnson","Online Individual",1,JAN
+1447,Sale,1447Nav80,"Navy Floral Light Halter",80014,"Isabella Owens","Online Individual",1,FEB
+1448,Sale,1448Nav80,"Navy Floral Light Halter",80014,"Daisy Payne","Online Individual",1,FEB
+1449,Sale,1449Nav80,"Navy Floral Light Halter",80014,"Evelyn Morris","Online Individual",1,FEB
+1450,Sale,1450Nav80,"Navy Floral Light Halter",80014,"Annabella Cunningham","Online Individual",1,FEB
+1451,Sale,1451Nav80,"Navy Floral Light Halter",80014,"Alexia Stevens","Online Individual",1,FEB
+1452,Sale,1452Nav80,"Navy Floral Light Halter",80014,"Kirsten Murphy","Online Individual",1,JAN
+1453,Sale,1453Nav80,"Navy Floral Light Halter",80014,"Sarah Evans","Online Individual",1,JAN
+1454,Sale,1454Nav80,"Navy Floral Light Halter",80014,"Cadie Kelly","Online Individual",1,JAN
+1455,Sale,1455Nav80,"Navy Floral Light Halter",80014,"Honey Mason","Online Individual",1,JAN
+1456,Sale,1456Nav80,"Navy Floral Light Halter",80014,"Kelsey Farrell","Online Individual",1,JAN
+1457,Sale,1457Nav80,"Navy Floral Light Halter",80014,"Vivian Scott","Online Individual",1,JAN
+1458,Sale,1458Nav80,"Navy Floral Light Halter",80014,"Jenna Armstrong","Online Individual",1,JAN
+1459,Sale,1459Nav80,"Navy Floral Light Halter",80014,"Anna Hall","Online Individual",1,JAN
+1460,Sale,1460Nav80,"Navy Floral Light Halter",80014,"Joyce Harrison","Online Individual",1,JAN
+1461,Sale,1461Nav80,"Navy Floral Light Halter",80014,"Hailey Craig","Online Individual",1,JAN
+1462,Sale,1462Nav80,"Navy Floral Light Halter",80014,"Mary Robinson","Online Individual",1,JAN
+1463,Sale,1463Nav80,"Navy Floral Light Halter",80014,"Sarah Gray","Online Individual",1,JAN
+1464,Sale,1464Nav80,"Navy Floral Light Halter",80014,"Eleanor Warren","Online Individual",1,JAN
+1465,Sale,1465Nav80,"Navy Floral Light Halter",80014,"Emma Williams","Online Individual",1,JAN
+1466,Sale,1466Nav80,"Navy Floral Light Halter",80014,"Charlotte Turner","Online Individual",1,JAN
+1467,Sale,1467Nav80,"Navy Floral Light Halter",80014,"Ellia Myers","Online Individual",1,JAN
+1468,Sale,1468Nav80,"Navy Floral Light Halter",80014,"Daisy Gray","Online Individual",1,JAN
+1469,Sale,1469Nav80,"Navy Floral Light Halter",80014,"Grace Morgan","Online Individual",1,JAN
+1470,Sale,1470Nav80,"Navy Floral Light Halter",80014,"Sienna Wells","Online Individual",1,JAN
+1471,Sale,1471Nav80,"Navy Floral Light Halter",80014,"Annabella Payne","Online Individual",1,JAN
+1472,Sale,1472Nav80,"Navy Floral Light Halter",80014,"Anna Harris","Online Individual",1,JAN
+1473,Sale,1473Nav80,"Navy Floral Light Halter",80014,"Abigail Hamilton","Online Individual",1,JAN
+1474,Sale,1474Nav80,"Navy Floral Light Halter",80014,"Abigail Murray","Online Individual",1,JAN
+1475,Sale,1475Nav80,"Navy Floral Light Halter",80014,"Hail Fost","Online Individual",1,JAN
+1476,Sale,1476Nav80,"Navy Floral Light Halter",80014,"Camila Rogers","Online Individual",1,JAN
+1477,Sale,1477Nav80,"Navy Floral Light Halter",80014,"Lucia Kelley","Online Individual",1,JAN
+1478,Sale,1478Nav80,"Navy Floral Light Halter",80014,"Gianna Montgomery","Online Individual",1,JAN
+1479,Sale,1479Nav80,"Navy Floral Light Halter",80014,"Chelsea Brown","Online Individual",1,JAN
+1480,Sale,1480Nav80,"Navy Floral Light Halter",80014,"Lucia Harris","Online Individual",1,JAN
+1481,Sale,1481Nav80,"Navy Floral Light Halter",80014,"April Kelley","Online Individual",1,JAN
+1482,Sale,1482Nav80,"Navy Floral Light Halter",80014,"Aida Chapman","Online Individual",1,JAN
+1483,Sale,1483Nav80,"Navy Floral Light Halter",80014,"Michelle Adams","Online Individual",1,JAN
+1484,Sale,1484Nav80,"Navy Floral Light Halter",80014,"Savana Lloyd","Online Individual",1,JAN
+1485,Sale,1485Nav80,"Navy Floral Light Halter",80014,"Miley Perry","Online Individual",1,JAN
+1486,Sale,1486Nav80,"Navy Floral Light Halter",80014,"Belinda Johnson","Online Individual",1,JAN
+1487,Sale,1487Nav80,"Navy Floral Light Halter",80014,"Ada Martin","Online Individual",1,JAN
+1488,Sale,1488Nav80,"Navy Floral Light Halter",80014,"Kirsten Carroll","Online Individual",1,JAN
+1489,Sale,1489Nav80,"Navy Floral Light Halter",80014,"Elise Ellis","Online Individual",1,JAN
+1490,Sale,1490Nav80,"Navy Floral Light Halter",80014,"Lilianna Baker","Online Individual",1,JAN
+1491,Sale,1491Nav80,"Navy Floral Light Halter",80014,"Kimberly Jones","Online Individual",1,JAN
+1492,Sale,1492Nav80,"Navy Floral Light Halter",80014,"Heather Harper","Online Individual",1,JAN
+1493,Sale,1493Nav80,"Navy Floral Light Halter",80014,"Melanie Grant","Online Individual",1,JAN
+1494,Sale,1494Nav80,"Navy Floral Light Halter",80014,"Julia Ryan","Online Individual",1,JAN
+1495,Sale,1495Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1496,Sale,1496Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1497,Sale,1497Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1498,Sale,1498Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1499,Sale,1499Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1500,Sale,1500Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1501,Sale,1501Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1502,Sale,1502Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1503,Sale,1503Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1504,Sale,1504Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1505,Sale,1505Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1506,Sale,1506Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1507,Sale,1507Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1508,Sale,1508Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1509,Sale,1509Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1510,Sale,1510Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1511,Sale,1511Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1512,Sale,1512Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1513,Sale,1513Nav80,"Navy Floral Light Halter",80014,Target,"Retail Buyer",1,JAN
+1514,Sale,1514Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,FEB
+1515,Sale,1515Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,FEB
+1516,Sale,1516Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,FEB
+1517,Sale,1517Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,JAN
+1518,Sale,1518Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,FEB
+1519,Sale,1519Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,FEB
+1520,Sale,1520Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,FEB
+1521,Sale,1521Bla90,"Black Crepe Business Jacket",90021,Bloomingdales,"Retail Buyer",1,JAN
+1522,Sale,1522Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1523,Sale,1523Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1524,Sale,1524Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1525,Sale,1525Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1526,Sale,1526Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1527,Sale,1527Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1528,Sale,1528Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1529,Sale,1529Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1530,Sale,1530Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1531,Sale,1531Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1532,Sale,1532Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1533,Sale,1533Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1534,Sale,1534Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1535,Sale,1535Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1536,Sale,1536Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1537,Sale,1537Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1538,Sale,1538Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1539,Sale,1539Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1540,Sale,1540Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1541,Sale,1541Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1542,Sale,1542Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1543,Sale,1543Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1544,Sale,1544Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1545,Sale,1545Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1546,Sale,1546Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1547,Sale,1547Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1548,Sale,1548Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1549,Sale,1549Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1550,Sale,1550Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1551,Sale,1551Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1552,Sale,1552Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1553,Sale,1553Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1554,Sale,1554Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1555,Sale,1555Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1556,Sale,1556Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1557,Sale,1557Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1558,Sale,1558Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1559,Sale,1559Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1560,Sale,1560Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1561,Sale,1561Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1562,Sale,1562Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1563,Sale,1563Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1564,Sale,1564Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1565,Sale,1565Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1566,Sale,1566Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1567,Sale,1567Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1568,Sale,1568Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1569,Sale,1569Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1570,Sale,1570Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1571,Sale,1571Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1572,Sale,1572Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1573,Sale,1573Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1574,Sale,1574Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1575,Sale,1575Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1576,Sale,1576Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1577,Sale,1577Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1578,Sale,1578Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1579,Sale,1579Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1580,Sale,1580Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1581,Sale,1581Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1582,Sale,1582Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1583,Sale,1583Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1584,Sale,1584Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1585,Sale,1585Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1586,Sale,1586Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1587,Sale,1587Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1588,Sale,1588Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1589,Sale,1589Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1590,Sale,1590Red10,"Red Poplin Summer Dress",10013,Macys,"Retail Buyer",1,MAR
+1591,Sale,1591Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1592,Sale,1592Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1593,Sale,1593Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1594,Sale,1594Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1595,Sale,1595Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1596,Sale,1596Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1597,Sale,1597Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1598,Sale,1598Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1599,Sale,1599Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1600,Sale,1600Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1601,Sale,1601Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1602,Sale,1602Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1603,Sale,1603Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1604,Sale,1604Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1605,Sale,1605Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1606,Sale,1606Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1607,Sale,1607Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1608,Sale,1608Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1609,Sale,1609Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1610,Sale,1610Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1611,Sale,1611Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1612,Sale,1612Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1613,Sale,1613Nav80,"Navy Floral Light Halter",80208,Macys,"Retail Buyer",1,JAN
+1614,Sale,1614Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1615,Sale,1615Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1616,Sale,1616Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1617,Sale,1617Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1618,Sale,1618Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1619,Sale,1619Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1620,Sale,1620Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1621,Sale,1621Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,JAN
+1622,Sale,1622Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
+1623,Sale,1623Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
+1624,Sale,1624Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
+1625,Sale,1625Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
+1626,Sale,1626Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
+1627,Sale,1627Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
+1628,Sale,1628Nav80,"Navy Floral Light Halter",80208,Target,"Retail Buyer",1,MAR
